@@ -15,9 +15,9 @@ footer_text: >
   Made by students, for students
 
 # Blog
-excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+excerpt: false                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
-color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
+color_image: assets/img/background.png                   # A bit transparent for color posts.
 
 # Features
 katex: true                                             # Enable if using math markup
