@@ -17,4 +17,4 @@ permalink: /mentors/
 |Cathryn Dunicliff| |
 |Melissa Quail| |
 |Jennifer Ollett| |
-|Lik Kan Chung| |
+|Lik Kan Chung|<img style="max-width: 500px;" src="/assets/img/team/LikkanChung.jpg?raw-true">|
