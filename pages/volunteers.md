@@ -15,6 +15,6 @@ permalink: /mentors/
 |Jacob Wilson|<img style="max-width: 500px;" src="/assets/img/team/JacobWilson.jpg?raw-true">|
 |Charlie de Freitas|<img style="max-width: 500px;" src="/assets/img/team/CharliedeFreitas.jpg?raw-true">|
 |Cathryn Dunicliff| |
-|Melissa Quail| |
+|Melissa Quail|<img style="max-width: 500px;" src="/assets/img/team/MelissaQuail.jpg?raw-true">|
 |Jennifer Ollett| |
 |Lik Kan Chung|<img style="max-width: 500px;" src="/assets/img/team/LikkanChung.jpg?raw-true">|
