@@ -9,4 +9,12 @@ permalink: /mentors/
 
 |Name|Picture|
 |-----|-----|
-|Example|Example|
+|Will Russell|<img style="max-width: 500px;" src="/assets/img/team/WillRussell.jpg?raw=true">|
+|Lauren Alie|<img style="max-width: 500px;" src="/assets/img/team/LaurenAlie.jpg?raw-true">|
+|Daniel Spencer|<img style="max-width: 500px;" src="/assets/img/team/DanielSpencer.jpg?raw=true">|
+|Jacob Wilson|<img style="max-width: 500px;" src="/assets/img/team/JacobWilson.jpg?raw-true">|
+|Charlie de Freitas|<img style="max-width: 500px;" src="/assets/img/team/CharliedeFreitas.jpg?raw-true">|
+|Cathryn Dunicliff| |
+|Melissa Quail| |
+|Jennifer Ollett| |
+|Lik Kan Chung| |
