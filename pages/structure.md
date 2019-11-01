@@ -12,7 +12,7 @@ Every hackathon needs a structure. There's several ways you can run a hackathon.
 |Time|Title|Description|
 |-----|----|-----------|
 |9:30|Start of hackathon|Students arrive and get setup with a computer and with the tools required.
-|10:00|Workshop: Part 1|Workshop based on an API, library, or tool. This can be led by a teacher or a Schools for Hackathons mentor.|
+|10:00|Workshop: Part 1|Workshop based on an API, library, or tool. This can be led by a teacher or a Hackathons for Schools mentor.|
 |11:00|Break|An opportunities for students to go to the toilet and digest the workshop.|
 |11:15|Workshop: Part 2|The workshop continues, by looking at a different part of the topic.
 |12:00|Lunch|Lunch break before the hacking starts.|
@@ -25,4 +25,4 @@ Every hackathon needs a structure. There's several ways you can run a hackathon.
 |Time|Title|Description|
 |----|-----|-----------|
 |9:30|Start of hackathon|Students arrive and get setup with a computer, and with the tools required.|
-|10:00|Workshop 1: Part 1| Workshop based on an API, library, or tool. This can be led by a teacher or a Schools for Hackathons mentor.|
+|10:00|Workshop 1: Part 1| Workshop based on an API, library, or tool. This can be led by a teacher or a Hackathons for Schools mentor.|
