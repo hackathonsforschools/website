@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Volunteers
+title: Mentors
 feature-img: "assets/img/background.png"
-permalink: /volunteers/
+permalink: /mentors/
 ---
 
-### It wouldn't be possible to do any of what we do without our fantastic team of volunteers!
+### It wouldn't be possible to do any of what we do without our fantastic team of mentors!
 
 |Name|Picture|
 |-----|-----|
