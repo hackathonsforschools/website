@@ -30,7 +30,9 @@ Every hackathon needs a structure. There's several ways you can run a hackathon.
 # What kind of workshops could be run?
 Workshops could be run either by a teacher, or one of our fantastic mentors. They provide a great source of insipration for the students taking part in the hackathon, so we recommend running a workshop with content which can easily be replicated by the students.
 
-For inspiration, please check out our resources page where you will be able to find a number of examples created by the team.
+The optimal environment for running a workshop would be in separate room to the main event space, perhaps in another classroom.
+
+For inspiration when designing your workshop, please check out our resources list where you will be able to find a number of examples created by the team.
 
 # Other mini-events
 In order to break up the day, we highly recommend including a few smaller events in your schedule. These could include:
