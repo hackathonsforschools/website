@@ -5,7 +5,7 @@ feature-img: "assets/img/background.png"
 permalink: /team/
 ---
 
-|Name|Role|Picture|
+|Name|Role|University|Picture|
 |-----|-----|
 |Will Russell|Lead|University of Birmingham|<img style="max-width: 200px;" src="/assets/img/team/WillRussell.jpg?raw=true">|
 |Lauren Alie|Diversity and Inclusion Lead|University of Birmingham|<img style="max-width: 200px;" src="/assets/img/team/LaurenAlie.jpg?raw-true">|
