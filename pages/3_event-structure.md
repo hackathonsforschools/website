@@ -26,3 +26,14 @@ Every hackathon needs a structure. There's several ways you can run a hackathon.
 |----|-----|-----------|
 |9:30|Start of hackathon|Students arrive and get setup with a computer, and with the tools required.|
 |10:00|Workshop 1: Part 1| Workshop based on an API, library, or tool. This can be led by a teacher or a Hackathons for Schools mentor.|
+
+# What kind of workshops could be run?
+Workshops could be run either by a teacher, or one of our fantastic mentors. They provide a great source of insipration for the students taking part in the hackathon, so we recommend running a workshop with content which can easily be replicated by the students.
+
+For inspiration, please check out our resources page where you will be able to find a number of examples created by the team.
+
+# Other mini-events
+In order to break up the day, we highly recommend including a few smaller events in your schedule. These could include:
+- Games
+- Short competitions (programming based or not)
+- Talks from guest speakers
