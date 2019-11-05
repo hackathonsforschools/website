@@ -3,6 +3,8 @@ layout: page
 title: Mentors
 feature-img: "assets/img/background.png"
 permalink: /mentors/
+styles:
+    - /css/team.scss
 ---
 
 ## It wouldn't be possible to do any of what we do without our fantastic team of mentors!
@@ -13,17 +15,14 @@ If you would like assistance with your event, you are more than welcome to make 
 
 ### Who are the mentors?
 
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Picture</th>
-        <th>Location</th>
-    </tr>
-    {% for person in site.data.mentors %}
-    <tr>
-        <td>{{ person.name }}</td>
-        <td><img style="max-width: 30vw" src="{{ person.picture }}"></td>
-        <td>{{ person.location }}</td>
-    </tr>
-    {% endfor %}
-</table>
+<div class="person-container">
+  {% for person in site.data.mentors %}
+  <div class="person">
+    <img class="picture" src="{{ person.picture | relative_url }}" alt="picture of {{ person.name }}">
+    <div class="info">
+      <p class="name">{{ person.name }}</p>
+      <p class="location">{{ person.location }}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
