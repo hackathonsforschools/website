@@ -1,3 +1,63 @@
-#team {
+.person-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.person {
+  overflow: hidden;
+  
+  display: flex;
+  
+  margin: 15px;
+  
+  .picture {
+    width: 50%;
+    flex: 0 0 auto;
     
+  }
+  
+  .info {
+    flex: 1 1 auto;
+    padding: 5px;
+    
+    .name {
+      font-weight: bold;
+      font-size: x-large;
+      margin-bottom: 0.5em; 
+    }
+    
+    .role {
+      color: #363636;
+      font-size: large;
+      margin-bottom: 0em; 
+    }
+    
+    .location {
+      color: #363636;
+      font-size: large;
+      margin-bottom: 0em; 
+    }
+  }
+}
+
+@media only screen and (max-width : 800px) {
+  .person {
+    flex-direction: column;
+
+    .picture {
+      margin-top: 10px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
+@media only screen and (max-width : 1500px) {
+  .person-container {
+    grid-template-columns: 1fr;
+  }
+
+  .person {
+    max-width: 700px;
+  }
 }
