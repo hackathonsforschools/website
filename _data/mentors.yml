@@ -1,14 +1,14 @@
 - name: Will Russell
-  location: location of Birmingham
+  location: University of Birmingham
   picture: /assets/img/team/WillRussell.jpg
 - name: Lauren Alie
-  location: location of Birmingham
+  location: University of Birmingham
   picture: /assets/img/team/LaurenAlie.jpg
 - name: Jacob Wilson
-  location: location of Birmingham
+  location: University of Birmingham
   picture: /assets/img/team/JacobWilson.jpg
 - name: Daniel Spencer
-  location: location of Warwick
+  location: University of Warwick
   picture: /assets/img/team/DanielSpencer.jpg
 - name: Cat Dunicliff
   location: Birmingham
@@ -30,7 +30,7 @@
   picture: /assets/img/team/JackBiggin.jpg
 - name: Justin Chadwell
   location: University of Birmingham
-  picture: /assets/img/team/JustinChadell.jpg
+  picture: /assets/img/team/JustinChadwell.jpg
 - name: Megan Maton
   location: University of Sheffield
   picture: /assets/img/team/MeganMaton.jpg

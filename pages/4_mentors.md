@@ -13,14 +13,17 @@ If you would like assistance with your event, you are more than welcome to make 
 
 ### Who are the mentors?
 
-|Name|University|Picture|
-|-----|-----|-----|
-|Will Russell|University of Birmingham|<img style="max-width: 200px;" src="/assets/img/team/WillRussell.jpg?raw=true">|
-|Lauren Alie|University of Birmingham|<img style="max-width: 200px;" src="/assets/img/team/LaurenAlie.jpg?raw-true">|
-|Daniel Spencer|University of Warwick|<img style="max-width: 200px;" src="/assets/img/team/DanielSpencer.jpg?raw=true">|
-|Jacob Wilson|University of Birmingham|<img style="max-width: 200px;" src="/assets/img/team/JacobWilson.jpg?raw-true">|
-|Charlie de Freitas|University of Birmingham|<img style="max-width: 200px;" src="/assets/img/team/CharliedeFreitas.jpg?raw-true">|
-|Cathryn Dunicliff| | |
-|Melissa Quail|University of Cambridge|<img style="max-width: 200px;" src="/assets/img/team/MelissaQuail.jpg?raw-true">|
-|Jennifer Ollett|University of Sheffield|<img style="max-width: 200px;" src="/assets/img/team/JenOllett.jpg?raw-true">|
-|Lik Kan Chung|University of Birmingham|<img style="max-width: 200px;" src="/assets/img/team/LikkanChung.jpg?raw-true">|
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Picture</th>
+        <th>Location</th>
+    </tr>
+    {% for person in site.data.mentors %}
+    <tr>
+        <td>{{ person.name }}</td>
+        <td><img style="max-width: 30vw" src="{{ person.picture }}"></td>
+        <td>{{ person.location }}</td>
+    </tr>
+    {% endfor %}
+</table>
