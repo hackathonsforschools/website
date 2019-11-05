@@ -1,0 +1,20 @@
+- name: Will Russell
+  role: Lead
+  location: location of Birmingham
+  picture: /assets/img/team/WillRussell.jpg
+- name: Lauren Alie
+  role: Diversity & Inclusion
+  location: location of Birmingham
+  picture: /assets/img/team/LaurenAlie.jpg
+- name: Jacob Wilson
+  role: Outreach & Developer
+  location: location of Birmingham
+  picture: /assets/img/team/JacobWilson.jpg
+- name: Daniel Spencer
+  role: Developer
+  location: location of Warwick
+  picture: /assets/img/team/DanielSpencer.jpg
+- name: Cat Dunicliff
+  role: Outreach & Diversity
+  location: Birmingham
+  picture: /assets/img/team/CatDunicliff.jpg
