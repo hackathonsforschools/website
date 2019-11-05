@@ -43,11 +43,27 @@
 @media only screen and (max-width : 800px) {
   .person {
     flex-direction: column;
-
+    
     .picture {
       margin-top: 10px;
       margin-left: auto;
       margin-right: auto;
+    }
+    .info {
+      margin-left: auto;
+      margin-right: auto;
+      
+      .name {
+        text-align: center;
+        margin-bottom: 0em; 
+      }
+      .role {
+        text-align: center;
+      }
+      .location {
+        font-size: medium;
+        text-align: center;
+      }
     }
   }
 }
