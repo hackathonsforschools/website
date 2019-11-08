@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Mentors
-feature-img: "assets/img/background.png"
 permalink: /mentors/
 styles:
     - /css/team.scss

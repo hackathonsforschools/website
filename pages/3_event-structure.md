@@ -2,7 +2,6 @@
 layout: page
 title: Event Structure
 permalink: /structure/
-feature-img: "assets/img/background.png"
 ---
 # What happens at a hackathon?
 Every hackathon needs a structure. There's several ways you can run a hackathon. Here are a few suggestions which can be adapted to suit your schools needs.

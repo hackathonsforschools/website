@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/background.png"
 ---
 # Who are we?
 We are a passionate group of students who study STEM subjects at universities around the country.

@@ -2,7 +2,6 @@
 layout: page
 title: Get Started
 permalink: /get-started/
-feature-img: "assets/img/background.png"
 ---
 # Interested in running your own hackathon?
 
