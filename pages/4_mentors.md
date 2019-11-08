@@ -12,6 +12,8 @@ styles:
 
 If you would like assistance with your event, you are more than welcome to make use of one of our fantastic mentors who will travel to you. All of the mentors will be able to assist with your student's technical issues throughout the event. They are well versed with the nature of hackathons, both as attendees and organisers, so have a wealth of experience.
 
+Each mentor has their own unique set of skills and areas of expertise. To help you find the most suitable mentor to assist you, look out for badges like this: <span class="skill lang-java">java</span>. Each mentor has chosen their top skills which they are happy to help people with.
+
 ### Who are the mentors?
 
 <div class="person-container">
@@ -23,7 +25,7 @@ If you would like assistance with your event, you are more than welcome to make 
       <p class="location">{{ person.location }}</p>
       <div class="skills-container">
         {% for skill in person.skills %}
-          <div class="skill {{ skill }}">{{ skill }}</div>
+          <div class="skill lang-{{ skill }}">{{ skill }}</div>
         {% endfor %}
       </div>
     </div>
@@ -33,5 +35,5 @@ If you would like assistance with your event, you are more than welcome to make 
 
 <!-- define colours for each language, this must be inline because liquid does not work in SCSS -->
 <style>{% for lang in site.data.lang_colours %}
-.skill.{{ lang.name }} { color: {{ lang.fg_colour }}; background: {{ lang.bg_colour }}; } {% endfor %}
+.skill.lang-{{ lang.name }} { color: {{ lang.fg_colour }}; background: {{ lang.bg_colour }}; } {% endfor %}
 </style>
