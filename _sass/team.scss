@@ -19,7 +19,7 @@
     .name {
       font-weight: bold;
       font-size: x-large;
-      margin-bottom: 0.5em;
+      margin-bottom: 0;
     }
 
     .role, .location {
@@ -49,4 +49,19 @@
       margin-top: 5px;
     }
   }
+}
+
+.skills-container {
+  margin-top: 8px;
+}
+
+.skill {
+  display: inline-block;
+  font-family: monospace;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 4px 6px;
+  margin: 2px 1px;
+  width: min-content;
+  background: grey;
 }

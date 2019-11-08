@@ -22,7 +22,17 @@ If you would like assistance with your event, you are more than welcome to make 
     <div class="info">
       <p class="name">{{ person.name }}</p>
       <p class="location">{{ person.location }}</p>
+      <div class="skills-container">
+        {% for skill in person.skills %}
+          <div class="skill {{ skill }}">{{ skill }}</div>
+        {% endfor %}
+      </div>
     </div>
   </div>
   {% endfor %}
 </div>
+
+<!-- define colours for each language, this must be inline because liquid does not work in SCSS -->
+<style>{% for lang in site.data.lang_colours %}
+.skill.{{ lang.name }} { color: {{ lang.fg_colour }}; background: {{ lang.bg_colour }}; } {% endfor %}
+</style>

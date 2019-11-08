@@ -1,6 +1,10 @@
 - name: Will Russell
   location: University of Birmingham
   picture: /assets/img/team/WillRussell.jpg
+  skills:
+    - python
+    - java
+    - android
 - name: Lauren Alie
   location: University of Birmingham
   picture: /assets/img/team/LaurenAlie.jpg
@@ -10,6 +14,13 @@
 - name: Daniel Spencer
   location: University of Warwick
   picture: /assets/img/team/DanielSpencer.jpg
+  skills:
+    - js
+    - python
+    - css
+    - html
+    - latex
+    - c
 - name: Charlie de Freitas
   location: University of Birmingham
   picture: /assets/img/team/CharliedeFreitas.jpg
@@ -28,7 +39,12 @@
 - name: Justin Chadwell
   location: University of Birmingham
   picture: /assets/img/team/JustinChadwell.jpg
+  skills:
+    - js
+    - python
+    - java
+    - c
+    - c++
 - name: Megan Maton
   location: University of Sheffield
   picture: /assets/img/team/MeganMaton.jpg
-  
