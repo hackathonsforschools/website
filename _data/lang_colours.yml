@@ -8,7 +8,7 @@
   fg_colour: "#ffffff"
   bg_colour: "#3572A5"
 - name: c
-  fg_colour: "#000000"
+  fg_colour: "#ffffff"
   bg_colour: "#555555"
 - name: css
   fg_colour: "#ffffff"
