@@ -1,0 +1,48 @@
+# this file maps skill IDs to a name, description, background colour & contrasting foreground colour
+# the keys (skill IDs) must be valid as CSS class names
+# background colours taken from https://github.com/ozh/github-colors/blob/master/colors.json
+js:
+  name: JavaScript
+  desc: The language of modern web development
+  fg_colour: "#000000"
+  bg_colour: "#f1e05a"
+python:
+  name: Python
+  desc: Easy to use & powerful general purpose language
+  fg_colour: "#ffffff"
+  bg_colour: "#3572A5"
+c:
+  name: C
+  desc: Low-level language for performance critical applications
+  fg_colour: "#ffffff"
+  bg_colour: "#555555"
+css:
+  name: CSS
+  desc: Markup language used to layout and style HTML
+  fg_colour: "#ffffff"
+  bg_colour: "#563d7c"
+html:
+  name: HTML
+  desc: Markup language used to construct web pages
+  fg_colour: "#ffffff"
+  bg_colour: "#e34c26"
+java:
+  name: Java
+  desc: General purpose object-orientated language
+  fg_colour: "#ffffff"
+  bg_colour: "#b07219"
+android:
+  name: Android
+  desc: The world's most popular mobile OS
+  fg_colour: "#ffffff"
+  bg_colour: "#3DDA84"
+cpp:
+  name: C++
+  desc: An object-orientated extension of C
+  fg_colour: "#ffffff"
+  bg_colour: "#f34b7d"
+git:
+  name: GIT
+  desc: Open source distributed version control system
+  fg_colour: "#eeeeee"
+  bg_colour: "#f05033"
