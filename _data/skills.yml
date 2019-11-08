@@ -11,21 +11,36 @@ python:
   desc: Easy to use & powerful general purpose language
   fg_colour: "#ffffff"
   bg_colour: "#3572A5"
-c:
-  name: C
-  desc: Low-level language for performance critical applications
+vb:
+  name: Visual Basic
+  desc: Event-driven featuring enabling easy GUI design
   fg_colour: "#ffffff"
-  bg_colour: "#555555"
-css:
-  name: CSS
-  desc: Markup language used to layout and style HTML
-  fg_colour: "#ffffff"
-  bg_colour: "#563d7c"
+  bg_colour: "#945db7"
 html:
   name: HTML
   desc: Markup language used to construct web pages
   fg_colour: "#ffffff"
   bg_colour: "#e34c26"
+css:
+  name: CSS
+  desc: Markup language used to layout and style HTML
+  fg_colour: "#ffffff"
+  bg_colour: "#563d7c"
+c:
+  name: C
+  desc: Low-level language for performance critical applications
+  fg_colour: "#ffffff"
+  bg_colour: "#555555"
+csharp:
+  name: C#
+  desc: Object-orientated language developed by Microsoft
+  fg_colour: "#ffffff"
+  bg_colour: "#178600"
+cpp:
+  name: C++
+  desc: An object-orientated extension of C
+  fg_colour: "#ffffff"
+  bg_colour: "#f34b7d"
 java:
   name: Java
   desc: General purpose object-orientated language
@@ -36,13 +51,13 @@ android:
   desc: The world's most popular mobile OS
   fg_colour: "#ffffff"
   bg_colour: "#3DDA84"
-cpp:
-  name: C++
-  desc: An object-orientated extension of C
-  fg_colour: "#ffffff"
-  bg_colour: "#f34b7d"
 git:
-  name: GIT
+  name: git
   desc: Open source distributed version control system
   fg_colour: "#eeeeee"
   bg_colour: "#f05033"
+gcp:
+  name: Google Cloud
+  desc: A suite of cloud computing services
+  fg_colour: "#ffffff"
+  bg_colour: "#1a73e8"
