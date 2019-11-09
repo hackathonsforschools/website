@@ -13,7 +13,7 @@ python:
   bg_colour: "#3572A5"
 vb:
   name: Visual Basic
-  desc: Event-driven featuring enabling easy GUI design
+  desc: Event-driven language featuring easy GUI design
   fg_colour: "#ffffff"
   bg_colour: "#945db7"
 html:
