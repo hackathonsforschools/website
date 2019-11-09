@@ -27,7 +27,6 @@
     - python
     - html
     - css
-    - c
 - name: Charlie de Freitas
   location: University of Birmingham
   picture: /assets/img/team/CharliedeFreitas.jpg
@@ -54,6 +53,11 @@
 - name: Jack Biggin
   location: University of Leeds
   picture: /assets/img/team/JackBiggin.jpg
+  skills:
+    - html
+    - css
+    - git
+    - js
 - name: Justin Chadwell
   location: University of Birmingham
   picture: /assets/img/team/JustinChadwell.jpg
@@ -61,8 +65,13 @@
     - python
     - js
     - git
-    - c
     - gcp
 - name: Megan Maton
   location: University of Sheffield
   picture: /assets/img/team/MeganMaton.jpg
+  skills:
+    - html
+    - css
+    - java
+    - git
+    - python

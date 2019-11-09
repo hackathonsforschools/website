@@ -26,21 +26,11 @@ css:
   desc: Markup language used to layout and style HTML
   fg_colour: "#ffffff"
   bg_colour: "#563d7c"
-c:
-  name: C
-  desc: Low-level language for performance critical applications
-  fg_colour: "#ffffff"
-  bg_colour: "#555555"
 csharp:
   name: C#
   desc: Object-orientated language developed by Microsoft
   fg_colour: "#ffffff"
   bg_colour: "#178600"
-cpp:
-  name: C++
-  desc: An object-orientated extension of C
-  fg_colour: "#ffffff"
-  bg_colour: "#f34b7d"
 java:
   name: Java
   desc: General purpose object-orientated language
