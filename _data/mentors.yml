@@ -5,6 +5,7 @@
     - python
     - java
     - android
+    - csharp
 - name: Lauren Alie
   location: University of Birmingham
   picture: /assets/img/team/LaurenAlie.jpg
@@ -36,6 +37,11 @@
 - name: Jen Ollett
   location: University of Sheffield
   picture: /assets/img/team/JenOllett.jpg
+  skills:
+    - python
+    - java
+    - html
+    - css
 - name: Lik Kan Chung
   location: University of Birmingham
   skills:
