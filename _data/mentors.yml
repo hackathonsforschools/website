@@ -30,9 +30,18 @@
 - name: Charlie de Freitas
   location: University of Birmingham
   picture: /assets/img/team/CharliedeFreitas.jpg
+  skills:
+    - git
+    - java
+    - python
 - name: Melissa Quail
   location: University of Cambridge
   picture: /assets/img/team/MelissaQuail.jpg
+  skills:
+    - python
+    - csharp
+    - android
+    - git
 - name: Jen Ollett
   location: University of Sheffield
   picture: /assets/img/team/JenOllett.jpg
