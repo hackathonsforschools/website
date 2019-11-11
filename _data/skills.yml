@@ -1,6 +1,6 @@
 # this file maps skill IDs to a name, description, background colour & contrasting foreground colour
-# the keys (skill IDs) must be valid as CSS class names
-# background colours taken from https://github.com/ozh/github-colors/blob/master/colors.json
+# note: the keys (skill IDs) must be valid as CSS class names
+# the background colours are from https://github.com/ozh/github-colors/blob/master/colors.json
 js:
   name: JavaScript
   desc: The language of modern web development
