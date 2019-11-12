@@ -1,34 +1,88 @@
+# skills are defined in the skills.yml file
 - name: Will Russell
   location: University of Birmingham
   picture: /assets/img/team/WillRussell.jpg
+  skills:
+    - python
+    - java
+    - git
+    - android
+    - csharp
 - name: Lauren Alie
   location: University of Birmingham
   picture: /assets/img/team/LaurenAlie.jpg
+  skills:
+    - java
+    - html
 - name: Jacob Wilson
   location: University of Birmingham
   picture: /assets/img/team/JacobWilson.jpg
+  skills:
+    - python
+    - gcp
+    - java
 - name: Daniel Spencer
   location: University of Warwick
   picture: /assets/img/team/DanielSpencer.jpg
-- name: Charlie de Freitas
-  location: University of Birmingham
-  picture: /assets/img/team/CharliedeFreitas.jpg
-- name: Melissa Quail
-  location: University of Cambridge
-  picture: /assets/img/team/MelissaQuail.jpg
+  skills:
+    - js
+    - python
+    - html
+    - css
 - name: Jen Ollett
   location: University of Sheffield
   picture: /assets/img/team/JenOllett.jpg
+  skills:
+    - python
+    - java
+    - html
+    - css
+- name: Charlie de Freitas
+  location: University of Birmingham
+  picture: /assets/img/team/CharliedeFreitas.jpg
+  skills:
+    - git
+    - java
+    - python
 - name: Lik Kan Chung
   location: University of Birmingham
   picture: /assets/img/team/LikkanChung.jpg
+  skills:
+    - java
+    - python
+    - html
+    - css
+    - vb
 - name: Jack Biggin
   location: University of Leeds
   picture: /assets/img/team/JackBiggin.jpg
+  skills:
+    - html
+    - css
+    - git
+    - js
 - name: Justin Chadwell
   location: University of Birmingham
   picture: /assets/img/team/JustinChadwell.jpg
+  skills:
+    - python
+    - js
+    - git
+    - gcp
+- name: Melissa Quail
+  location: University of Cambridge
+  picture: /assets/img/team/MelissaQuail.jpg
+  skills:
+    - python
+    - csharp
+    - android
+    - git
 - name: Megan Maton
   location: University of Sheffield
   picture: /assets/img/team/MeganMaton.jpg
-  
+  skills:
+    - html
+    - css
+    - java
+    - git
+    - python

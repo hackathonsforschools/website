@@ -1,0 +1,53 @@
+# this file maps skill IDs to a name, description, background colour & contrasting foreground colour
+# note: the keys (skill IDs) must be valid as CSS class names
+# the background colours are from https://github.com/ozh/github-colors/blob/master/colors.json
+js:
+  name: JavaScript
+  desc: The language of modern web development
+  fg_colour: "#000000"
+  bg_colour: "#f1e05a"
+python:
+  name: Python
+  desc: Easy to use & powerful general purpose language
+  fg_colour: "#ffffff"
+  bg_colour: "#3572A5"
+vb:
+  name: Visual Basic
+  desc: Event-driven language featuring easy GUI design
+  fg_colour: "#ffffff"
+  bg_colour: "#945db7"
+html:
+  name: HTML
+  desc: Markup language used to construct web pages
+  fg_colour: "#ffffff"
+  bg_colour: "#e34c26"
+css:
+  name: CSS
+  desc: Markup language used to layout and style HTML
+  fg_colour: "#ffffff"
+  bg_colour: "#563d7c"
+csharp:
+  name: C#
+  desc: Object-orientated language developed by Microsoft
+  fg_colour: "#ffffff"
+  bg_colour: "#178600"
+java:
+  name: Java
+  desc: General purpose object-orientated language
+  fg_colour: "#ffffff"
+  bg_colour: "#b07219"
+android:
+  name: Android
+  desc: The world's most popular mobile OS
+  fg_colour: "#ffffff"
+  bg_colour: "#3DDA84"
+git:
+  name: git
+  desc: Open source distributed version control system
+  fg_colour: "#eeeeee"
+  bg_colour: "#f05033"
+gcp:
+  name: Google Cloud
+  desc: A suite of cloud computing services
+  fg_colour: "#ffffff"
+  bg_colour: "#1a73e8"

@@ -5,76 +5,64 @@
 
 .person {
   overflow: hidden;
-  
   display: flex;
-  
-  margin: 15px;
-  
+  margin: 20px 0;
+
   .picture {
-    height: 50%;
-    width: 50%;
+    max-width: 50%;
+    object-fit: contain;
     flex: 0 0 auto;
-    
   }
-  
+
   .info {
     flex: 1 1 auto;
-    padding: 5px;
-    
+
     .name {
       font-weight: bold;
       font-size: x-large;
-      margin-bottom: 0.5em; 
+      margin-bottom: 0;
     }
-    
-    .role {
+
+    .role, .location {
       color: #363636;
       font-size: large;
-      margin-bottom: 0em; 
-    }
-    
-    .location {
-      color: #363636;
-      font-size: large;
-      margin-bottom: 0em; 
+      margin-bottom: 0;
     }
   }
 }
 
-@media only screen and (max-width : 800px) {
-  .person {
-    flex-direction: column;
-    
-    .picture {
-      margin-top: 10px;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    .info {
-      margin-left: auto;
-      margin-right: auto;
-      
-      .name {
-        text-align: center;
-        margin-bottom: 0em; 
-      }
-      .role {
-        text-align: center;
-      }
-      .location {
-        font-size: medium;
-        text-align: center;
-      }
-    }
-  }
-}
-
-@media only screen and (max-width : 1500px) {
+@media only screen and (max-width : 600px) {
   .person-container {
     grid-template-columns: 1fr;
   }
+}
 
+@media only screen and (max-width : 1000px) {
   .person {
-    max-width: 700px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    .picture {
+      max-width: 60%;
+    }
+    .info {
+      margin-top: 5px;
+    }
   }
+}
+
+.skills-container {
+  margin-top: 8px;
+}
+
+.skill {
+  display: inline-block;
+  font-family: monospace;
+  font-weight: bold;
+  border-radius: 4px;
+  padding: 4px 6px;
+  margin: 2px 1px;
+  width: max-content;
+  background: grey;
 }
