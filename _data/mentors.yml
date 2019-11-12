@@ -21,6 +21,7 @@
     - python
     - gcp
     - java
+    - git
 - name: Daniel Spencer
   location: University of Warwick
   picture: /assets/img/team/DanielSpencer.jpg
@@ -29,6 +30,7 @@
     - python
     - html
     - css
+    - git
 - name: Jen Ollett
   location: University of Sheffield
   picture: /assets/img/team/JenOllett.jpg
