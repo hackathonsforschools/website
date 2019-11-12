@@ -6,11 +6,13 @@
 .person {
   overflow: hidden;
   display: flex;
+  align-items: flex-start;
   margin: 20px 0;
 
   .picture {
     max-width: 50%;
     object-fit: contain;
+    object-position: 0% 0%;
     flex: 0 0 auto;
   }
 
