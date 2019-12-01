@@ -28,3 +28,5 @@ jekyll-theme-type-on-strap.gemspec
 *copy.md
 .jekyll-cache/*
 test/*
+
+vendor/bundle
