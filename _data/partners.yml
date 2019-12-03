@@ -1,0 +1,8 @@
+- name: hack.athon.uk
+  site: https://hack.athon.uk
+  logo: /assets/img/partners/hack-athon-uk.svg
+  description: The UK Hackathon Community.
+- name: HacKTheMidlands
+  site: https://hackthemidlands.com
+  logo: /assets/img/partners/htm.png
+  description: 24 hour, inclusive hackathon for anyone 14+, based in Birmingham.

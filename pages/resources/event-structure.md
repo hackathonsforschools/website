@@ -40,7 +40,7 @@ Every hackathon needs a structure. There's several ways you can run a hackathon.
 |Time|Title|Description|
 |----|-----|-----------|
 |9:30|Start of day 2|Students arrive and get setup with where they were the day before|
-|10:00|Warm up session|Mini game to help get the students more engaged. This can be led by a teacher or a Hackathons for Schools mentor. More information on mini games can be found [here](./3_minigames.md).|
+|10:00|Warm up session|Mini game to help get the students more engaged. This can be led by a teacher or a Hackathons for Schools mentor. More information on mini games can be found [here](./minigames).|
 |10:45|Hacking resumes|Students get into the same teams as the day before, and continue with their projects.|
 |12:00|Lunch|Lunch break.|
 |12:30|Hacking resumes|Students continue working on their projects.|
