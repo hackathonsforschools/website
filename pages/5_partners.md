@@ -4,6 +4,10 @@ title: Partners
 permalink: /partners/
 ---
 
+Without our partners, Hackathons for Schools Association wouldn't be possible. They provide us with the resources and information that we use to run the highest quality hackathons and workshops in schools all across the country.
+
+---
+
 <div class="person-container">
   {%- for partner in site.data.partners -%}
   <div class="person">
