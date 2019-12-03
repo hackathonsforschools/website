@@ -11,7 +11,7 @@ Every hackathon needs a structure. There's several ways you can run a hackathon.
 |Time|Title|Description|
 |-----|----|-----------|
 |9:30|Start of hackathon|Students arrive and get setup with a computer and with the tools required.
-|10:00|Workshop: Part 1|Workshop based on an API, library, or tool. This can be led by a teacher or a Hackathons for Schools mentor.|
+|10:00|Workshop: Part 1|Workshop based on an API, library, or tool. This can be led by a teacher or a Hackathons For Schools mentor.|
 |11:00|Break|An opportunities for students to go to the toilet and digest the workshop.|
 |11:15|Workshop: Part 2|The workshop continues, by looking at a different part of the topic.
 |12:00|Lunch|Lunch break before the hacking starts.|
@@ -21,10 +21,31 @@ Every hackathon needs a structure. There's several ways you can run a hackathon.
 
 ## Weekend Long Hackathon
 
+### Day 1
+
 |Time|Title|Description|
 |----|-----|-----------|
-|9:30|Start of hackathon|Students arrive and get setup with a computer, and with the tools required.|
-|10:00|Workshop 1: Part 1| Workshop based on an API, library, or tool. This can be led by a teacher or a Hackathons for Schools mentor.|
+|9:30|Start of day 1|Students arrive and get setup with a computer, and with the tools required.|
+|10:00|Workshop 1: Part 1| Workshop based on an API, library, or tool. This can be led by a teacher or a Hackathons For Schools mentor.|
+|11:00|Break|An opportunities for students to go to the toilet and digest the workshop.|
+|11:15|Workshop: Part 2|The workshop continues, by looking at a different part of the topic.
+|12:00|Lunch|Lunch break before the hacking starts.|
+|12:30|Hacking starts|Students get into teams and start working on a project. They will be given some ideas based on the workshop|
+|16:30|Presentations|Each team will demo their project and explain what they did and how they did it.|
+|17:30|End of day 1|Students start to head home.|
+
+### Day 2
+
+|Time|Title|Description|
+|----|-----|-----------|
+|9:30|Start of day 2|Students arrive and get setup with where they were the day before|
+|10:00|Warm up session|Mini game to help get the students more engaged. This can be led by a teacher or a Hackathons For Schools mentor. More information on mini games can be found [here](./404.md).|
+|10:45|Hacking resumes|Students get into the same teams as the day before, and continue with their projects.|
+|12:00|Lunch|Lunch break.|
+|12:30|Hacking resumes|Students continue working on their projects.|
+|16:30|Presentations|Each team will demo their project and explain what they did and how they did it.|
+|17:30|End of hackathon|Students start to head home.|
+
 
 # What kind of workshops could be run?
 Workshops could be run either by a teacher, or one of our fantastic mentors. They provide a great source of insipration for the students taking part in the hackathon, so we recommend running a workshop with content which can easily be replicated by the students.
