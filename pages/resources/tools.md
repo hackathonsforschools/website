@@ -2,6 +2,7 @@
 layout: page
 title: Programming Tools
 permalink: /resources/tools
+hide: true
 ---
 
 
