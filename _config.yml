@@ -3,8 +3,8 @@ baseurl: "/"
 url: "hackathonsforschools.com"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Hackathons For Schools Association                                    # site's title
-description: "Official website for the Hackathons For Schools Association. Everything you need to run your own hackathon at your school can be found right here!"      # used by search engines
+title: Hackathons for Schools Association                                    # site's title
+description: "Official website for the Hackathons for Schools Association. Everything you need to run your own hackathon at your school can be found right here!"      # used by search engines
 avatar: assets/img/logo/circle.png                       # Empty for no avatar in navbar
 favicon: assets/img/logo/favicon.ico                             # Icon displayed in the tab
 

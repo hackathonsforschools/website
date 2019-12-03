@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Event Structure
-permalink: /structure/
+permalink: /resources/structure/
+hide: true
 ---
 # What happens at a hackathon?
 Every hackathon needs a structure. There's several ways you can run a hackathon. Here are a few suggestions which can be adapted to suit your schools needs.
@@ -11,7 +12,7 @@ Every hackathon needs a structure. There's several ways you can run a hackathon.
 |Time|Title|Description|
 |-----|----|-----------|
 |9:30|Start of hackathon|Students arrive and get setup with a computer and with the tools required.
-|10:00|Workshop: Part 1|Workshop based on an API, library, or tool. This can be led by a teacher or a Hackathons For Schools mentor.|
+|10:00|Workshop: Part 1|Workshop based on an API, library, or tool. This can be led by a teacher or a Hackathons for Schools mentor.|
 |11:00|Break|An opportunities for students to go to the toilet and digest the workshop.|
 |11:15|Workshop: Part 2|The workshop continues, by looking at a different part of the topic.
 |12:00|Lunch|Lunch break before the hacking starts.|
@@ -26,7 +27,7 @@ Every hackathon needs a structure. There's several ways you can run a hackathon.
 |Time|Title|Description|
 |----|-----|-----------|
 |9:30|Start of day 1|Students arrive and get setup with a computer, and with the tools required.|
-|10:00|Workshop 1: Part 1| Workshop based on an API, library, or tool. This can be led by a teacher or a Hackathons For Schools mentor.|
+|10:00|Workshop 1: Part 1| Workshop based on an API, library, or tool. This can be led by a teacher or a Hackathons for Schools mentor.|
 |11:00|Break|An opportunities for students to go to the toilet and digest the workshop.|
 |11:15|Workshop: Part 2|The workshop continues, by looking at a different part of the topic.
 |12:00|Lunch|Lunch break before the hacking starts.|
@@ -39,7 +40,7 @@ Every hackathon needs a structure. There's several ways you can run a hackathon.
 |Time|Title|Description|
 |----|-----|-----------|
 |9:30|Start of day 2|Students arrive and get setup with where they were the day before|
-|10:00|Warm up session|Mini game to help get the students more engaged. This can be led by a teacher or a Hackathons For Schools mentor. More information on mini games can be found [here](./404.md).|
+|10:00|Warm up session|Mini game to help get the students more engaged. This can be led by a teacher or a Hackathons for Schools mentor. More information on mini games can be found [here](./3_minigames.md).|
 |10:45|Hacking resumes|Students get into the same teams as the day before, and continue with their projects.|
 |12:00|Lunch|Lunch break.|
 |12:30|Hacking resumes|Students continue working on their projects.|
