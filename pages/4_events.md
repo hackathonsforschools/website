@@ -10,13 +10,13 @@ Here are all the upcoming member events happening around the UK!
 ## Calendar 
 
 <div class="item-container">
-  {%- for partner in site.data.events -%}
+  {%- for event in site.data.events -%}
   <div class="item">
-    <img class="picture" src="{{ partner.logo | relative_url }}" alt="picture of {{ partner.name }}">
+    <img class="picture" src="{{ event.logo | relative_url }}" alt="picture of {{ event.name }}">
     <div class="info">
-      <a style="color=black;" href="{{ partner.site }}"><p class="name">{{ partner.name }}</p></a>
-      <p class="date">{{ partner.date}}</p>
-      <p class="description">{{ partner.description}}</p>
+      <a style="color=black;" href="{{ event.site }}"><p class="name">{{ event.name }}</p></a>
+      <p class="date">{{ event.date}}</p>
+      <p class="description">{{ event.description}}</p>
     </div>
   </div>
   {%- endfor -%}

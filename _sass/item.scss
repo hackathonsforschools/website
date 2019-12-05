@@ -26,12 +26,21 @@
       color: #262525;
     }
 
-    .role, .location, .description {
+    .date {
+      font-size: x-large;
       color: #363636;
+    }
+    
+    .location, .description {
       font-size: large;
+      color: #363636;
       margin-bottom: 0;
     }
 
+    .role {
+      font-size: 20px;
+      margin-bottom: 0;
+    }
     .grid {
       color: #363636;
       font-size: x-large;
