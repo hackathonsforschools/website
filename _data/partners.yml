@@ -1,12 +1,15 @@
 - name: hack.athon.uk
   site: https://hack.athon.uk
-  logo: /assets/img/partners/hack-athon-uk.svg
+  logo: /assets/img/partners/hack-athon-uk.png
   description: The UK Hackathon Community.
 - name: HackTheMidlands
   site: https://hackthemidlands.com
   logo: /assets/img/partners/htm.png
-  description: 24 hour, inclusive hackathon for anyone 14+, based in Birmingham.
-
+  description: 24 hour inclusive hackathon for anyone 14+, based in Birmingham.
+- name: Durham University Computing Society
+  site: https://www.compsoc.tech/
+  logo: /assets/img/partners/durham_compsoc.png
+  description: Durham University Computing Society is run entirely by students and serves to promote programming, development, and general computing within both Durham University and the wider community.
 
 #- name: Hackathon Hackers Europe
 #  site: https://hackathonhackers.eu/
