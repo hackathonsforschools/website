@@ -1,15 +1,15 @@
 - name: Will Russell
-  role: Lead
+  role: Founder
   location: University of Birmingham
   picture: /assets/img/team/WillRussell.jpg
-- name: Lauren Alie
-  role: Outreach
-  location: University of Birmingham
-  picture: /assets/img/team/LaurenAlie.jpg
 - name: Jacob Wilson
   role: Partnerships
   location: University of Birmingham
   picture: /assets/img/team/JacobWilson.jpg
+- name: Lauren Alie
+  role: Outreach
+  location: University of Birmingham
+  picture: /assets/img/team/LaurenAlie.jpg
 - name: Daniel Spencer
   role: Technology
   location: University of Warwick
