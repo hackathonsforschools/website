@@ -4,19 +4,19 @@ title: Member Events
 permalink: /events/
 ---
 
-Here are all the upcoming member events happening around the UK!  
+Here are all the upcoming member events happening around the UK! 
 
 ---
 ## Calendar 
 
-<div class="person-container">
+<div class="item-container">
   {%- for partner in site.data.events -%}
-  <div class="person">
+  <div class="item">
     <img class="picture" src="{{ partner.logo | relative_url }}" alt="picture of {{ partner.name }}">
     <div class="info">
       <a style="color=black;" href="{{ partner.site }}"><p class="name">{{ partner.name }}</p></a>
       <p class="date">{{ partner.date}}</p>
-      <p class="location">{{ partner.description}}</p>
+      <p class="description">{{ partner.description}}</p>
     </div>
   </div>
   {%- endfor -%}
