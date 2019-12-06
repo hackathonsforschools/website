@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programming Tools
+title: Resources - Programming Tools
 permalink: /resources/tools
 hide: true
 ---

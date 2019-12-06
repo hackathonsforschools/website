@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Event Structure
+title: Resources - Event Structure
 permalink: /resources/structure/
 hide: true
 ---
@@ -56,7 +56,9 @@ The optimal environment for running a workshop would be in separate room to the 
 For inspiration when designing your workshop, please check out our resources list where you will be able to find a number of examples created by the team.
 
 # Other mini-events
-In order to break up the day, we highly recommend including a few smaller events in your schedule. These could include:
+
+It's important to break up your day, giving the students a break and keeping them engaged. We've got a list of [mini games](/resources/mini-games/) you can put into your schedule to help break up your day.
+
 - Games
 - Short competitions (programming based or not)
 - Talks from guest speakers

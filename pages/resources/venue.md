@@ -1,6 +1,6 @@
 ---
 layout: page
-title: venue
+title: Resources - Venue
 permalink: /resources/venue/
 hide: true
 ---
