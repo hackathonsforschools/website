@@ -7,7 +7,7 @@ permalink: /about/
 We are a passionate group of students who study STEM subjects at universities around the country.
 
 # What are we doing?
-Our goal is to improve the technology opportunities in schools, and get more students between the ages of 15 and 18 involved with hackathons.
+Our goal is to improve the technology opportunities in schools, and get more students between the ages of 15 and 18 involved with hackathons and technology.
 
 # What is a hackathon?
 A hackathon is an event when a group of like-minded people come together to solve problems. 'Hacking', despite its connotations, does not have to involve technology - just creating problem solving - and should not be malicious in nature.

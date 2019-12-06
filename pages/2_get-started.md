@@ -16,11 +16,11 @@ Take a look at this page for everything you need to run your own hackathon.
 - Some computers
 - Internet
 
-## Resources
+## [Resources](/resources/)
 
 We've built a large number of resources to help you get started with planning your event. Head over to the [Resources page](/resources/) for more information.
 
-## Mentors
+## [Mentors](/mentors/)
 
 We can also get you in contact with one of our mentors! They all have experience attending hackathons so understand the core concepts of a hcakthon. Some of our mentors have even organised hackathons around the country. They can help you with any questions you have about your event!  Get in contact if this is something you're interested in. We can definitely help!
 

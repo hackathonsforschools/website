@@ -48,6 +48,14 @@
     - git
     - java
     - python
+- name: Melissa Quail
+  location: University of Cambridge
+  picture: /assets/img/team/MelissaQuail.jpg
+  skills:
+    - python
+    - csharp
+    - android
+    - git
 - name: Lik Kan Chung
   location: University of Birmingham
   picture: /assets/img/team/LikkanChung.jpg
@@ -75,14 +83,6 @@
     - css
     - git
     - gcp
-- name: Melissa Quail
-  location: University of Cambridge
-  picture: /assets/img/team/MelissaQuail.jpg
-  skills:
-    - python
-    - csharp
-    - android
-    - git
 - name: Megan Maton
   location: University of Sheffield
   picture: /assets/img/team/MeganMaton.jpg
