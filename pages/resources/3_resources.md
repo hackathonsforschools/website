@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## [Venue](./venue)
 
-Suitible locations to run your hackathon.
+Suitable locations to run your hackathon.
 
 ## [Programming Tools](./tools)
 
@@ -28,9 +28,9 @@ Mini games can keep engaged, teach team building, and keep things fun.
 
 An easy way to send information to parents, and other members in the school about the school hackathon.
 
-## [Information For Parents](./parents) s
+## [Information For Parents](./parents)
 
-Some of the terminology may go over your head as a parent, so we've created a easy guide to help you keep track of your childs interest, and how you can support them.
+Some of the terminology may go over your head as a parent, so we've created a easy guide to help you keep track of your child's interest, and how you can support them.
 
 ## Other Resources
 
