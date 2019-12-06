@@ -7,6 +7,8 @@
     - java
     - git
     - android
+    - html
+    - css
     - csharp
 - name: Lauren Alie
   location: University of Birmingham
@@ -19,15 +21,15 @@
   picture: /assets/img/team/JacobWilson.jpg
   skills:
     - python
-    - gcp
     - java
+    - gcp
     - git
 - name: Daniel Spencer
   location: University of Warwick
   picture: /assets/img/team/DanielSpencer.jpg
   skills:
-    - js
     - python
+    - js
     - html
     - css
     - git
@@ -59,16 +61,18 @@
   location: University of Leeds
   picture: /assets/img/team/JackBiggin.jpg
   skills:
+    - js
     - html
     - css
     - git
-    - js
 - name: Justin Chadwell
   location: University of Birmingham
   picture: /assets/img/team/JustinChadwell.jpg
   skills:
     - python
     - js
+    - html
+    - css
     - git
     - gcp
 - name: Melissa Quail
@@ -86,5 +90,5 @@
     - html
     - css
     - java
-    - git
     - python
+    - git
