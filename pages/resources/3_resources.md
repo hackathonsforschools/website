@@ -4,6 +4,10 @@ title: Resources
 permalink: /resources/
 ---
 
+All of these headings are a link to their own pages where you can learn more!
+
+---
+
 ## [Venue](./venue)
 
 Suitable locations to run your hackathon.
