@@ -23,4 +23,4 @@ Without our partners, Hackathons for Schools Association wouldn't be possible. T
 ---
 
 ## Interested in becoming one of our partners?
-Please get in contact if you would like to join us as a partner! We will be happy to send you any more information that you require, by [email](mailto:contact@hackathonsforschools.com "Email") or via any of our social media pages (below).
+Please get in contact if you would like to join us as a partner! We will be happy to send you any more information that you require! We can be reached by [email](mailto:contact@hackathonsforschools.com "Email") or via any of our social media pages (below).
