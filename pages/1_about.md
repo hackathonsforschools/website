@@ -19,4 +19,4 @@ First of all, hackathons are great fun for all involved, and very rewarding for 
 Hackathons in general are a great way to meet and work with new people, and a great way to try something new. Following on from this, there is absolutely no expectation of prior programming ability so taking part in hackathons is a great way of getting involved with the world of Computer Science!
 
 # Want to get in touch?
-Use any of the buttons at the bottom of all pages on this site, and contact us via email or one of our social media outlets.
+Use any of the buttons at the bottom of all pages on this site to contact us either via email, or one of our social media outlets.
