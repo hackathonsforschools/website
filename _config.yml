@@ -17,7 +17,7 @@ footer_text: >
 # Blog
 excerpt: false                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
-
+google_analytics: UA-154139299-1
 # Features
 layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
 footer_icons:                                           # In _data/social.yml
