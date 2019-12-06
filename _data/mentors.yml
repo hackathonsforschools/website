@@ -45,9 +45,9 @@
   location: University of Birmingham
   picture: /assets/img/team/CharliedeFreitas.jpg
   skills:
-    - git
-    - java
     - python
+    - java
+    - git
 - name: Melissa Quail
   location: University of Cambridge
   picture: /assets/img/team/MelissaQuail.jpg
@@ -62,9 +62,9 @@
   skills:
     - java
     - python
+    - vb
     - html
     - css
-    - vb
 - name: Jack Biggin
   location: University of Leeds
   picture: /assets/img/team/JackBiggin.jpg
@@ -81,14 +81,14 @@
     - js
     - html
     - css
-    - git
     - gcp
+    - git
 - name: Megan Maton
   location: University of Sheffield
   picture: /assets/img/team/MeganMaton.jpg
   skills:
-    - html
-    - css
     - java
     - python
+    - html
+    - css
     - git
