@@ -15,14 +15,6 @@ notifications:
 after_script:
   - gem install type-on-strap
   - gem install jekyll-theme-type-on-strap
-after_success:
-  - wget https://raw.githubusercontent.com/DiscordHooks/travis-ci-discord-webhook/master/send.sh
-  - chmod +x send.sh
-  - ./send.sh success $WEBHOOK_URL
-after_failure:
-  - wget https://raw.githubusercontent.com/DiscordHooks/travis-ci-discord-webhook/master/send.sh
-  - chmod +x send.sh
-  - ./send.sh failure $WEBHOOK_URL 
 branches:
   only:
     - gh-pages
