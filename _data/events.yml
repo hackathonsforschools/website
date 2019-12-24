@@ -1,0 +1,13 @@
+- name: DurHack:NextGen
+  date: 18th - 19th April 2020
+  price: Free
+  site: https://durhack.com/nextgen
+  logo: /assets/img/events/durhack_nextgen.png
+  description: A two-day, under 18 hackathon for the next generation of DurHackers.
+- name: HackTheMidlands 5.0
+  date: Autumn 2020
+  price: Free
+  site: https://hackthemidlands.com/
+  logo: /assets/img/partners/htm.png
+  description: 24 hour inclusive hackathon for anyone 14+, based in Birmingham.
+  

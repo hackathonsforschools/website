@@ -9,15 +9,4 @@ document.addEventListener("DOMContentLoaded", function (event) {
   pull.addEventListener('click', function (e) {
     menu.classList.toggle('hide');
   });
-
-  /*
-   * Make the header images move on scroll
-   */
-  window.addEventListener('scroll', function () {
-    var x = window.pageYOffset || document.body.scrollTop;
-    var main = document.getElementById("main");
-    var mainStyle = main.style;
-
-    mainStyle.backgroundPosition = '100% ' + parseInt(-x / 3) + 'px' + ', 0%, center top';
-  });
 });

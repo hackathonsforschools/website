@@ -2,8 +2,7 @@
 layout: page
 title: Mentors
 permalink: /mentors/
-styles:
-    - /css/team.scss
+
 ---
 
 ## It wouldn't be possible to do any of what we do without our fantastic team of mentors!
@@ -16,9 +15,9 @@ Each mentor has their own unique set of skills and areas of expertise. To help y
 
 ### Who are the mentors?
 
-<div class="person-container">
+<div class="item-container">
   {%- for person in site.data.mentors -%}
-  <div class="person">
+  <div class="item">
     <img class="picture" src="{{ person.picture | relative_url }}" alt="picture of {{ person.name }}">
     <div class="info">
       <p class="name">{{ person.name }}</p>
