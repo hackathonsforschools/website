@@ -2,25 +2,24 @@
 layout: page
 title: Member Events
 permalink: /events/
+styles:
+  - https://unpkg.com/@fullcalendar/core@4.3.0/main.min.css
+  - https://unpkg.com/@fullcalendar/daygrid@4.3.0/main.min.css
+  - https://unpkg.com/@fullcalendar/list@4.3.0/main.min.css
+  - /assets/css/calendar.css
+scripts:
+  - https://unpkg.com/@fullcalendar/core@4.3.0/main.min.js
+  - https://unpkg.com/@fullcalendar/daygrid@4.3.0/main.min.js
+  - https://unpkg.com/@fullcalendar/list@4.3.0/main.min.js
+  - https://unpkg.com/@fullcalendar/google-calendar@4.3.0/main.min.js
+  - /assets/js/calendar.js
 ---
 
-Here are all the upcoming member events happening around the UK! 
+Here are all the upcoming member events happening around the UK!
 
 ---
-## Calendar 
 
-<div class="item-container">
-  {%- for event in site.data.events -%}
-  <div class="item">
-    <img class="picture" src="{{ event.logo | relative_url }}" alt="picture of {{ event.name }}">
-    <div class="info">
-      <a style="color=black;" href="{{ event.site }}"><p class="name">{{ event.name }}</p></a>
-      <p class="date">{{ event.date}}</p>
-      <p class="description">{{ event.description}}</p>
-    </div>
-  </div>
-  {%- endfor -%}
-</div>
+<div id="calendar"></div>
 
 ---
 
