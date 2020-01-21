@@ -10,8 +10,8 @@ All of these headings are a link to their own pages where you can learn more!
 
 <div class="item-container">
   {% for resource in site.data.resources %}
-    <div style="margin-top: 16px">
-      <br><a id="button" href="{{ resource.link }}">{{ resource.name }}</a><br>
+    <div class="resource-container">
+      <br><a class="resource-button" href="{{ resource.link }}">{{ resource.name }}</a><br>
     </div>
   {% endfor %}
 </div>

@@ -8,7 +8,7 @@ layout: default
     <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
   </div>
 
-  <div class="home_content">
+  <div class="home-content">
     {% capture my_include %}{% include_relative home.md %}{% endcapture %}
     {{ my_include | markdownify }}
   </div>
