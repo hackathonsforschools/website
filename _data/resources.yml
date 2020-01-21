@@ -1,0 +1,21 @@
+- name: Venue
+  link: ./venue
+  tag: Suitable locations to run your hackathon
+- name: Programming Tools
+  link: ./tools
+  tag: Ensuring the school computers and network are setup appropriately for a hackathon.
+- name: Event Structure
+  link: ./structure
+  tag: A mixture of structures for your hackathon
+- name: Workshops
+  link: ./workshops
+  tag: We've created a bunch of high quality, beginner friendly workshops to help get your students started. They vary from Python projects, to web based applications.
+- name: Mini Games
+  link: ./mini-games
+  tag: Mini games can keep students engaged, teach team building, and keep things fun.
+- name: Forms and Letters
+  link: ./forms
+  tag: An easy way to send information to parents, and other members in the school about the school hackathon.
+- name: Information for Parents
+  link: ./parents
+  tag: Some of the terminology may go over your head as a parent, so we've created a easy guide to help you keep track of your child's interest, and how you can support them.
