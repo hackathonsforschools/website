@@ -4,10 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-All of these headings are a link to their own pages where you can learn more!
-
----
-
 <div class="item-container">
   {% for resource in site.data.resources %}
     <div class="resource-container">
