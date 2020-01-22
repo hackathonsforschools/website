@@ -1,5 +1,5 @@
-CALENDAR_ID = 't8iphvpqadetnf7ccpb2c7pnjk@group.calendar.google.com'
-CALENDAR_KEY = 'AIzaSyAQqb5ZhZIOroU98W1_xzXlN3jWN8Ta4aQ'
+const CALENDAR_ID = 't8iphvpqadetnf7ccpb2c7pnjk@group.calendar.google.com'
+const CALENDAR_KEY = 'AIzaSyAQqb5ZhZIOroU98W1_xzXlN3jWN8Ta4aQ'
 
 let calendar
 
