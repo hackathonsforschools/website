@@ -21,12 +21,8 @@ scripts:
     hash: sha384-Ha5I8QPCC/z63Vv2VZG8QZIXGIhDPrLLu3fMx46RG+FLQqpWNzsA8mZIR9YXPahZ
   - url: /assets/js/calendar.js
 ---
-
-Here are all the upcoming member events happening around the UK!
-
 <div id="calendar"></div>
 
----
-
+--- 
 ## Interested in becoming a member event?
 Please get in contact if you would like to become a member event! We'd love to help you make the most out of your event. Get in touch by [email](mailto:contact@hackathonsforschools.com "Email").
