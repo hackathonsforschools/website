@@ -20,8 +20,12 @@
   {% if page.scripts %}
   <!-- page-specific scripts -->
   {% for script in page.scripts %}
-  <script src="{{ script | relative_url }}"></script>
-  {%- endfor -%}
+  <script src="{{ script.url | relative_url }}"
+    {% if script.hash %}
+      integrity="{{ script.hash }}"
+      crossorigin="anonymous"
+    {%- endif -%}></script>
+  {% endfor %}
   {% endif %}
 
   {% if page.styles %}
