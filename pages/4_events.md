@@ -6,6 +6,7 @@ styles:
   - https://unpkg.com/@fullcalendar/core@4.3.0/main.min.css
   - https://unpkg.com/@fullcalendar/daygrid@4.3.0/main.min.css
   - https://unpkg.com/@fullcalendar/list@4.3.0/main.min.css
+  - /assets/css/calendar-theme.css
 scripts:
   - url: https://unpkg.com/@fullcalendar/core@4.3.0/main.min.js
     hash: sha384-rouc52Uk/cLTKcEeTGcW5Jg76vjIdbKE/Zd3U47ZMc4ezmiCtKCRuT7TRd/ai7f1
