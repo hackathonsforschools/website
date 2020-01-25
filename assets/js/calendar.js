@@ -8,7 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   calendar = new FullCalendar.Calendar(calendarElement, {
     plugins: ['dayGrid', 'googleCalendar', 'list'],
-    defaultView: 'list',
+    defaultView: 'dayGridMonth',
+    firstDay: 1,
     googleCalendarApiKey: CALENDAR_KEY,
 		events: {
 			googleCalendarId: CALENDAR_ID
