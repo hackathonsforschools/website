@@ -5,6 +5,7 @@ permalink: /events/
 styles:
   - https://unpkg.com/@fullcalendar/core@4.3.0/main.min.css
   - https://unpkg.com/@fullcalendar/daygrid@4.3.0/main.min.css
+  - https://unpkg.com/@fullcalendar/timegrid@4.3.0/main.min.css
   - https://unpkg.com/@fullcalendar/list@4.3.0/main.min.css
   - /assets/css/calendar-theme.css
 scripts:
@@ -12,6 +13,8 @@ scripts:
     hash: sha384-rouc52Uk/cLTKcEeTGcW5Jg76vjIdbKE/Zd3U47ZMc4ezmiCtKCRuT7TRd/ai7f1
   - url: https://unpkg.com/@fullcalendar/daygrid@4.3.0/main.min.js
     hash: sha384-Vg8WM1KZn59u30ahJ4mGZwEw2R4ieRhhvX2PPiKKCSpuxms+HvoC3XPii6CnMvFD
+  - url: https://unpkg.com/@fullcalendar/timegrid@4.3.0/main.min.js
+    hash: sha384-yyTZuDPNQFp/xKe4Yk67GZBC6Pm3OXdipzs78KRRA37YWJuy3rcgDQTxCxbIviHs
   - url: https://unpkg.com/@fullcalendar/list@4.3.0/main.min.js
     hash: sha384-fG3/vSufb+AA91JKrVZZiS16J72wgK0u/CK+afw3Kw2tbVEPEFcTHac7sJabZd31
   - url: https://unpkg.com/@fullcalendar/google-calendar@4.3.0/main.min.js
