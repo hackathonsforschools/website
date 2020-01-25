@@ -1,3 +1,28 @@
 .fc-content {
   box-shadow: 0 0 .2rem rgba(0,0,0,.1),0 .2rem .4rem rgba(0,0,0,.2);
 }
+
+@media only screen and (max-width : 600px) {
+  #calendar {
+    margin: 0 -16px;
+  }
+
+  .fc-left > h2 {
+    font-size: 1.2em;
+  }
+
+  .fc-toolbar.fc-header-toolbar {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  .fc-toolbar.fc-header-toolbar > * {
+    text-align: center;
+    margin-bottom: 0.5em;
+  }
+
+  .fc-button {
+    padding: 0.2em 0.3em;
+  }
+}
