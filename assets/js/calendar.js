@@ -11,9 +11,10 @@ const DATE_24HR_FORMAT = {
 }
 
 let calendar
+let calendarElement
 
 document.addEventListener('DOMContentLoaded', () => {
-  let calendarElement = document.querySelector('#calendar')
+  calendarElement = document.querySelector('#calendar')
 
   let defaultView = 'dayGridMonth'
   if (window.innerWidth < SMALL_DEVICE_WIDTH) {
@@ -30,7 +31,8 @@ document.addEventListener('DOMContentLoaded', () => {
     height: 800,
     googleCalendarApiKey: CALENDAR_KEY,
 		events: {
-			googleCalendarId: CALENDAR_ID
+			googleCalendarId: CALENDAR_ID,
+      failure: onLoadFailed
 		},
     eventTimeFormat: DATE_24HR_FORMAT,
     views: {
@@ -57,3 +59,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
   calendar.render()
 })
+
+function onLoadFailed(error) {
+  calendarElement.innerHTML =
+    `<div id="calendar-error">
+      <h3>Could not load calendar</h3>
+      <p>HTTP Error ${error.xhr.status}</p>
+    </div>`
+}

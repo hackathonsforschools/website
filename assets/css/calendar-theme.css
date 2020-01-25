@@ -2,6 +2,10 @@
   box-shadow: 0 0 .2rem rgba(0,0,0,.1),0 .2rem .4rem rgba(0,0,0,.2);
 }
 
+#calendar-error {
+  text-align: center;
+}
+
 @media only screen and (max-width : 900px) {
   #calendar {
     width: 100vw;
