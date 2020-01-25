@@ -162,13 +162,6 @@ footer p:last-child {
   margin-bottom: 0;
 }
 
-table {
-  table-layout: fixed;
-  width: 100%;
-  word-wrap: break-word;
-  display: inline-block;
-}
-
 td,
 th {
   padding: 0.5em 1em;
@@ -176,7 +169,6 @@ th {
   text-align: left;
 }
 
-table,
 dl,
 kbd,
 samp {
