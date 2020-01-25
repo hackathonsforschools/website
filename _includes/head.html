@@ -28,7 +28,7 @@
   {% endfor %}
   {% endif %}
 
-  {% if page.styles %}
+  {%- if page.styles -%}
   <!-- page-specific style sheets -->
   {% for style in page.styles %}
   <link rel="stylesheet" href="{{ style | relative_url }}">
