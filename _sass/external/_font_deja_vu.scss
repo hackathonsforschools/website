@@ -4,5 +4,5 @@ $ssp-font-path: "../../assets/fonts/dejavu-sans-mono-bold" !default;
   font-family: 'DejaVu Sans Mono';
   font-display: auto;
   font-weight: 700;
-  src: local("SourceSansPro-Italic"), url('#{$ssp-font-path}/DejaVuSansMono-Bold.ttf') format("ttf");
+  src: url('#{$ssp-font-path}/DejaVuSansMono-Bold.ttf') format("ttf");
 }
