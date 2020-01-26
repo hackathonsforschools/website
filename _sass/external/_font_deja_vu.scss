@@ -1,8 +1,0 @@
-$ssp-font-path: "../../assets/fonts/dejavu-sans-mono-bold" !default;
-
-@font-face {
-  font-family: 'DejaVu Sans Mono';
-  font-display: auto;
-  font-weight: 700;
-  src: url('#{$ssp-font-path}/DejaVuSansMono-Bold.ttf') format("truetype");
-}
