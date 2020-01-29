@@ -1,12 +1,9 @@
-document.addEventListener("DOMContentLoaded", function (event) {
+document.addEventListener('DOMContentLoaded', () => {
+  // Display the menu items on smaller screens
+  const pull = document.querySelector('#pull')
+  const menu = document.querySelector('nav ul')
 
-  /*
-   * Display the menu items on smaller screens
-   */
-  var pull = document.getElementById('pull');
-  var menu = document.querySelector('nav ul');
-
-  pull.addEventListener('click', function (e) {
-    menu.classList.toggle('hide');
-  });
-});
+  pull.addEventListener('click', () => {
+    menu.classList.toggle('hide')
+  })
+})
