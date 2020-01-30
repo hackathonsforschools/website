@@ -1,8 +1,6 @@
 const CALENDAR_ID = 't8iphvpqadetnf7ccpb2c7pnjk@group.calendar.google.com'
 const CALENDAR_KEY = 'AIzaSyBplGV41n0rSD_NK612JhLTxePXXeyo0iE'
 
-const SMALL_DEVICE_WIDTH = 600
-
 const DATE_24HR_FORMAT = {
   hour: '2-digit',
   minute: '2-digit',
@@ -16,14 +14,9 @@ let calendarElement
 document.addEventListener('DOMContentLoaded', () => {
   calendarElement = document.querySelector('#calendar')
 
-  let defaultView = 'dayGridMonth'
-  if (window.innerWidth < SMALL_DEVICE_WIDTH) {
-    defaultView = 'listYear'
-  }
-
   calendar = new FullCalendar.Calendar(calendarElement, {
     plugins: ['dayGrid', 'googleCalendar', 'list', 'timeGrid'],
-    defaultView: defaultView,
+    defaultView: 'listYear',
     header: { center: 'dayGridMonth, timeGridWeek, listYear'},
     titleFormat: { year: 'numeric', month: 'short', day: 'numeric' },
     buttonText: { dayGridMonth:'Month', timeGridWeek:'Week', list:'All', today:'Today'},
