@@ -1,3 +1,5 @@
+/* global FullCalendar */
+
 const CALENDAR_ID = 't8iphvpqadetnf7ccpb2c7pnjk@group.calendar.google.com'
 const CALENDAR_KEY = 'AIzaSyBplGV41n0rSD_NK612JhLTxePXXeyo0iE'
 
@@ -17,21 +19,21 @@ document.addEventListener('DOMContentLoaded', () => {
   calendar = new FullCalendar.Calendar(calendarElement, {
     plugins: ['dayGrid', 'googleCalendar', 'list', 'timeGrid'],
     defaultView: 'listYear',
-    header: { center: 'dayGridMonth, timeGridWeek, listYear'},
+    header: { center: 'dayGridMonth, timeGridWeek, listYear' },
     titleFormat: { year: 'numeric', month: 'short', day: 'numeric' },
-    buttonText: { dayGridMonth:'Month', timeGridWeek:'Week', list:'All', today:'Today'},
+    buttonText: { dayGridMonth: 'Month', timeGridWeek: 'Week', list: 'All', today: 'Today' },
     firstDay: 1,
     height: 800,
     googleCalendarApiKey: CALENDAR_KEY,
-		events: {
-			googleCalendarId: CALENDAR_ID,
+    events: {
+      googleCalendarId: CALENDAR_ID,
       failure: onLoadFailed
-		},
+    },
     eventTimeFormat: DATE_24HR_FORMAT,
     views: {
       // month view
       dayGridMonth: {
-        displayEventEnd: true,
+        displayEventEnd: true
       },
       // week view
       week: {
@@ -53,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
   calendar.render()
 })
 
-function onLoadFailed(error) {
+function onLoadFailed (error) {
   calendarElement.innerHTML =
     `<div id="calendar-error">
       <h3>Could not load calendar</h3>
