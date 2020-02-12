@@ -76,11 +76,13 @@
 
 .skill {
   display: inline-block;
-  font-family: monospace;
+  font-family: 'DejaVu Sans Mono';
   font-weight: bold;
+  font-size: 15px;
   border-radius: 4px;
   padding: 4px 6px;
   margin: 2px 1px;
   width: max-content;
   background: grey;
+  box-shadow: 0 0 .2rem rgba(0,0,0,.1),0 .2rem .4rem rgba(0,0,0,.2);
 }
