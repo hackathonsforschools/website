@@ -3,8 +3,11 @@
         {{ site.footer_text | default: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>" }}</p>
             <div class="footer-icons">
                 <ul>
-                <!-- Social icons from Font Awesome, if enabled -->
-                {% include icons.html %}
+                    {% include icons.html %}
+                </ul>
+                <ul>
+                    <br>
+                    {% include doc_links.html %}
                 </ul>
             </div>
 </footer>
