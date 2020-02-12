@@ -61,7 +61,7 @@ This constitution has been agreed to by all members of the **Hackathons for Scho
     <div class="info">
       <p class="name">{{ person.name}}</p>
       <p class="date-signed">Signed on {{ person.date}}</p>
-      <img class="picture" src="{{ person.signature | relative_url }}" alt="Signature of {{ person.name }}">
+      <img class="picture" src="/assets/img/signatures/{{ person.signature | relative_url }}" alt="Signature of {{ person.name }}">
     </div>
   </div>
   {%- endfor -%}
