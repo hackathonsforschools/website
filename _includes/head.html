@@ -14,7 +14,7 @@
   <!-- canonical address -->
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
-  <!-- external scripts and style sheets -->
+  <!-- external scripts -->
   {% if page.scripts %}
     <!-- page-specific scripts -->
     {% for script in page.scripts %}
@@ -26,6 +26,7 @@
     {% endfor %}
   {% endif %}
 
+  <!-- external style sheets -->
   {%- if page.styles -%}
     <!-- page-specific style sheets -->
     {% for style in page.styles %}
