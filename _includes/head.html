@@ -1,19 +1,19 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <!-- navbar.js-->
-    <script defer=true src="{{ '/assets/js/navbar.js' | relative_url }}"></script>
+  <!-- navbar -->
+  <script defer=true src="{{ '/assets/js/navbar.js' | relative_url }}"></script>
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <!-- stylesheet -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
-    <!--Favicon-->
-    <link rel="shortcut icon" href="{{ site.favicon | relative_url }}" type="image/x-icon">
+  <!-- favicon-->
+  <link rel="shortcut icon" href="{{ site.favicon | relative_url }}" type="image/x-icon">
 
-    <!-- Canonical -->
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <!-- canonical address -->
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
-    <!-- seo tags -->
-    {% seo %}
+  <!-- seo tags -->
+  {% seo %}
 </head>
