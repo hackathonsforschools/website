@@ -5,8 +5,10 @@ layout: default
 <div class="home">
 
   <div id="main" class="call-out background-gradient">
+    <img src="/assets/img/logo/logo_white.svg"/>
     <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
   </div>
+
 
   <div class="home_content">
     {% capture my_include %}{% include_relative home.md %}{% endcapture %}
