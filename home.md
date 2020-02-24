@@ -1,5 +1,5 @@
 <div style="margin-top: 16px">
-    <br><a id="button" href="./get-started/">Get Started!</a><br>
+    <br><a id="home-button" href="./get-started/">Get Started!</a><br>
 </div>
 <br>
 

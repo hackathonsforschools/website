@@ -4,38 +4,14 @@ title: Resources
 permalink: /resources/
 ---
 
-All of these headings are a link to their own pages where you can learn more!
-
----
-
-## [Venue](./venue)
-
-Suitable locations to run your hackathon.
-
-## [Programming Tools](./tools)
-
-Ensuring the school computers and network are setup appropriately for a hackathon.
-
-## [Event Structure](./structure)
-
-A mixture of structures for your hackathon. 
-
-## [Workshops](./workshops)
-
-We've created a bunch of high quality, beginner friendly workshops to help get your students started. They vary from Python projects, to web based applications.
-
-## [Mini games](./mini-games)
-
-Mini games can keep engaged, teach team building, and keep things fun.
-
-## [Forms and Letters](./forms)
-
-An easy way to send information to parents, and other members in the school about the school hackathon.
-
-## [Information For Parents](./parents)
-
-Some of the terminology may go over your head as a parent, so we've created a easy guide to help you keep track of your child's interest, and how you can support them.
+<div class="item-container">
+  {% for resource in site.data.resources %}
+    <div class="resource-container">
+      <br><a class="resource-button" href="{{ resource.link }}">{{ resource.name }}</a><br>
+    </div>
+  {% endfor %}
+</div>
 
 ## Other Resources
 
-Our friends over at Hackathon Hackers Europe (HHEU) have a wonderful wiki on how to organise your own hackathon. Find it at [hack.athon.uk](https://hack.athon.uk/organise/gettingstarted/).
+Our friends over at Hackathons UK have a wonderful wiki on how to organise your own hackathon. Find it at [hack.athon.uk](https://hack.athon.uk/organise/before/gettingstarted/).

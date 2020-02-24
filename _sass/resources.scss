@@ -1,21 +1,23 @@
-.home-content {
-    text-align: center;
-    margin-left: 16px;
-    margin-right: 16px;
+.resource-container {
+    box-sizing: border-box;
+    display: grid;
 }
 
-#home-button {
+.resource-button {
+    text-align: center;
     font-size: xx-large;
     font-weight: 900;
+    vertical-align: middle;
     color: white;
     background-color: #9f03ff;
     padding: 16px;
+    margin: 0px 16px 16px 0px;
     border-radius: 16px;
     text-shadow: black 8px;
     transition: 0.6s;
     box-shadow: 0 0 .2rem rgba(0,0,0,.1),0 .2rem .4rem rgba(0,0,0,.2);
 }
 
-#button:hover{
+.resource-button:hover{
     background: #1794fe;
 }
