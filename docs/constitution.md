@@ -53,15 +53,14 @@ In order for **HFSA** to be dissolved, the following procedure must be followed:
 
 ---
 
-This constitution has been agreed to by all members of the **Hackathons for Schools Association** and signed by all members of the Core Team.
+This constitution has been agreed to by all members of the **Hackathons for Schools Association** and agreed by all members of the Core Team on the 23rd February 2020.
 
 <div class="signature-container">
-  {%- for person in site.data.signature -%}
+  {%- for person in site.data.constitution -%}
   <div class="item">
     <div class="info">
       <p class="name">{{ person.name}}</p>
-      <p class="date-signed">Signed on {{ person.date}}</p>
-      <img class="picture" src="/assets/img/signatures/{{ person.signature | relative_url }}" alt="Signature of {{ person.name }}">
+      <p class="date-signed">{{ person.title}}</p>
     </div>
   </div>
   {%- endfor -%}
