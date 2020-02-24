@@ -250,6 +250,8 @@ We are committed to reviewing our policy and good practice before every event
 held by **HFSA**.
 
 
-This policy was last reviewed on:
+This policy was last reviewed on 24/02/2020:
 
-24/02/2022 - William Russell (CPO)
+<img src="/assets/img/docs/cpp-siganture.png?raw=true" height="100">
+
+William Russell - Child Protection Officer
