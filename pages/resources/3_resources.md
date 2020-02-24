@@ -14,4 +14,4 @@ permalink: /resources/
 
 ## Other Resources
 
-Our friends over at Hackathon Hackers Europe (HHEU) have a wonderful wiki on how to organise your own hackathon. Find it at [hack.athon.uk](https://hack.athon.uk/organise/before/gettingstarted/).
+Our friends over at Hackathons UK have a wonderful wiki on how to organise your own hackathon. Find it at [hack.athon.uk](https://hack.athon.uk/organise/before/gettingstarted/).
