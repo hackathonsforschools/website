@@ -21,7 +21,7 @@ There are two role categories for the **Hackathons for Schools Association**. Vo
 
 Anyone who wishes to join as a Mentor should make this known to the Core Team. Joining the Core Team is not currently an option but will be considered where deemed necessary.
 
-Anyone can leave the Hackathons for Schools Association at any time and should make this known to the Core Team. Members may be asked to leave if a majority of the Core Team members believe that they are not acting in a way which is explicitly against the aims of the association.
+Anyone can leave the Hackathons for Schools Association at any time and should make this known to the Core Team. Members may be asked to leave if a majority of the Core Team members believe that they are acting in a way which is explicitly against the aims of the association.
 
 
 ## Equal Opportunities
