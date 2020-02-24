@@ -1,13 +1,17 @@
 .resource-container {
-    margin-top: 16px;
+    box-sizing: border-box;
+    display: grid;
 }
 
 .resource-button {
+    text-align: center;
     font-size: xx-large;
     font-weight: 900;
+    vertical-align: middle;
     color: white;
     background-color: #9f03ff;
     padding: 16px;
+    margin: 0px 16px 16px 0px;
     border-radius: 16px;
     text-shadow: black 8px;
     transition: 0.6s;
