@@ -220,6 +220,6 @@ We are committed to reviewing our policy and good practice before every event he
 
 This policy was last reviewed on 24/02/2020:
 
-<img src="/assets/img/docs/cpp-siganture.png?raw=true" height="100">
+<img src="/assets/img/docs/cpp-signature.png?raw=true" height="100">
 
 William Russell - Child Protection Officer
