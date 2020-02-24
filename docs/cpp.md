@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Child Protection Policy
-permalink: /child-protection-policy/
+permalink: /docs/child-protection-policy/
 hide: true
 ---
 
