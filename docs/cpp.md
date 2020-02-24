@@ -31,7 +31,7 @@ This policy applies exclusively to EVENTS held and/or organised by **HSFA**. Thi
 - Adopting child protection practices through procedures and a [code of conduct](/docs/code-of-conduct) for staff and volunteers.
 - Developing and implementing an effective e-safety policy and related procedures.
 - Providing effective management for staff and volunteers through supervision, support and training.
-- Recruiting staff and volunteers safely, ensuring all necessary checks are made
+- Recruiting staff and volunteers safely, ensuring all necessary checks are made.
 - Sharing information about child protection and good practice with children, parents, staff and volunteers.
 - Sharing concerns with agencies who need to know and involving parents and children appropriately. 
 
@@ -39,28 +39,28 @@ This policy applies exclusively to EVENTS held and/or organised by **HSFA**. Thi
 
 Every employee and director of **HFSA**, as well as every volunteer who assists in any events is under a general legal duty:
 -  To protect children and young people from abuse.
-- To be aware of the **HFSA**’s child protection procedures and to follow them;
+- To be aware of the **HFSA**’s child protection procedures and to follow them.
 - To know how to access and implement the procedures, independently if necessary.
-- To keep a sufficient record of any significant complaint, conversation or event
+- To keep a sufficient record of any significant complaint, conversation or event.
 - To report any matters of concern. 
 
 ## Legal Framework
 
 This policy has been drawn up on the basis of law and guidance that seeks to protect children, namely:
-- Children Act 1989
-- United Convention of the Rights of the Child 1991
-- Data Protection Act 1998
-- Sexual Offences Act 2003
-- Children Act 2004
-- Protection of Freedoms Act 2012
-- Relevant government guidance on safeguarding children 
+
+- Children Act 1989;
+- United Convention of the Rights of the Child 1991;
+- Data Protection Act 1998;
+- Sexual Offences Act 2003;
+- Children Act 2004;
+- Protection of Freedoms Act 2012;
+- Relevant government guidance on safeguarding children; 
 
 # Procedure
 
 ## Purpose and aim of the procedures
 
-This procedure is in place to ensure the safety of child, and make sure the necessary execution of any action is done correctly, with care and
-professionalism. 
+This procedure is in place to ensure the safety of child, and make sure the necessary execution of any action is done correctly, with care and professionalism. 
 
 ## The different categories of abuse
 
@@ -74,90 +74,89 @@ Physical abuse is a form of abuse which involves any physical harm inflicted ont
 
 Emotional abuse is any emotional harm caused to a person by another. It may include:
 
-- Name calling
-- Provocative and offensive comments
-- Threats or threatening behaviour
+- Name calling;
+- Provocative and offensive comments;
+- Threats or threatening behaviour;
 
 ### Sexual
 Sexual abuse involves the sexual exploitation or The activities may involve:
 
--  The touching of a child at any point which makes them uncomfortable
--  The touching of a child’s genitals or private parts
--  Using the child for personal sexual gain
--  Exploiting the child by taking pictures or videos for sexual purposes
+-  The touching of a child at any point which makes them uncomfortable;
+-  The touching of a child’s genitals or private parts;
+-  Using the child for personal sexual gain;
+-  Exploiting the child by taking pictures or videos for sexual purposes;
 
 ### Neglect
 
 Neglect is the fail to care properly for a child. It may involve, but is not limited to, a parent or carer failing to provide:
-- Sufficient Food & drink
-- Shelter
-- A safe home
-- Physical, Medical and Mental care 
+
+- Sufficient Food & drink;
+- Shelter;
+- A safe home;
+- Physical, Medical and Mental care;
 
 ## How to recognise the signs of abuse
 
 Children who are abused may show signs such as:
 
-- Talks of being left home alone or with strangers
-- Poor bond or relationship with a parent, also known as attachment
-- Acts out excessive violence with other children
-- Lacks social skills and has few if any friends
-- Becomes secretive and reluctant to share information
-- Is concerned for younger siblings without explaining why
+- Talks of being left home alone or with strangers;
+- Poor bond or relationship with a parent, also known as attachment;
+- Acts out excessive violence with other children;
+- Lacks social skills and has few if any friends;
+- Becomes secretive and reluctant to share information;
+- Is concerned for younger siblings without explaining why;
 
-May not necessarily mean they are being abused
-
+May not necessarily mean they are being abused.
 
 ### Physical
 
-- Bruises
-- Burns or scalds
-- Bite marks
-- Fractures or broken bones
-- Other injuries or health problems
-- Refusal to expose arms, or other body parts normally exposed
+- Bruises;
+- Burns or scalds;
+- Bite marks;
+- Fractures or broken bones;
+- Other injuries or health problems;
+- Refusal to expose arms, or other body parts normally exposed;
 
 
 ### Emotional
 
-- humiliating or constantly criticising a child
-- threatening, shouting at a child or calling them names
-- making the child the subject of jokes, or using sarcasm to hurt a child 
-- blaming, scapegoating
+- Humiliating or constantly criticising a child;
+- Threatening, shouting at a child or calling them names;
+- Making the child the subject of jokes, or using sarcasm to hurt a child; 
+- Blaming, scapegoating;
 
 ### Sexual
 
-- they might avoid being alone with people, such as family members or
-friends
-- they could seem frightened of a person or reluctant to socialise with them
-- a child might become sexually active at a young age
-- they might be promiscuous
-- they could use sexual language or know information that you wouldn't expect them to
-- anal or vaginal soreness
-- an unusual discharge
-- sexually transmitted infection (STI)
-- pregnancy
+- They might avoid being alone with people, such as family members or friends;
+- They could seem frightened of a person or reluctant to socialise with them;
+- A child might become sexually active at a young age;
+- They might be promiscuous;
+- They could use sexual language or know information that you wouldn't expect them to;
+- Anal or vaginal soreness;
+- An unusual discharge;
+- Sexually transmitted infection (STI);
+- Pregnancy;
 
 ### Neglect
 
-- be smelly or dirty
-- have unwashed clothes
-- have inadequate clothing, e.g. not having a winter coat
-- untreated injuries, medical and dental issues
-- poor muscle tone or prominent joints
-- skin sores, rashes, flea bites, scabies or ringworm
-- thin or swollen tummy
-- anaemia
-- tiredness
-- faltering weight or growth and not reaching developmental milestones (known as failure to thrive)
-- poor language, communication or social skills
+- Be smelly or dirty;
+- Have unwashed clothes;
+- Have inadequate clothing, e.g. not having a winter coat;
+- Untreated injuries, medical and dental issues;
+- Poor muscle tone or prominent joints;
+- Skin sores, rashes, flea bites, scabies or ringworm;
+- Thin or swollen tummy;
+- Anaemia;
+- Tiredness;
+- Faltering weight or growth and not reaching developmental milestones (known as failure to thrive);
+- Poor language, communication or social skills;
 
 ### Online
 
-- spend lots, much more or much less time online, texting, gaming or using social media
-- are withdrawn, upset or outraged after using the internet or texting
-- are secretive about who they’re talking to and what they’re doing online or on their mobile phone
-- have lots of new phone numbers, texts or e-mail addresses on their mobile phone, laptop or tablet
+- Spend lots, much more or much less time online, texting, gaming or using social media;
+- Are withdrawn, upset or outraged after using the internet or texting;
+- Are secretive about who they’re talking to and what they’re doing online or on their mobile phone;
+- Have lots of new phone numbers, texts or e-mail addresses on their mobile phone, laptop or tablet;
 
 Any question or uncertainty surrounding signs of abuse should be resolved at the NSPCC.
 
@@ -165,7 +164,7 @@ Any question or uncertainty surrounding signs of abuse should be resolved at the
 
 If you suspect the abuse of a child:
 
-- Report any information to a senior officer or Child Protection Officer / Designated Safeguarding Person
+- Report any information to a senior officer or Child Protection Officer / Designated Safeguarding Person.
 
 ## How to respond to allegations of abuse within the group
 
