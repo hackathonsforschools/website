@@ -18,7 +18,7 @@ Each mentor has their own unique set of skills and areas of expertise. To help y
 <div class="item-container">
   {%- for person in site.data.mentors -%}
   <div class="item">
-    <img class="picture" src="{{ person.picture | relative_url }}" alt="picture of {{ person.name }}">
+    <img class="picture" src="/assets/img/team/{{ person.picture | relative_url }}" alt="picture of {{ person.name }}">
     <div class="info">
       <p class="name">{{ person.name }}</p>
       <p class="location">{{ person.location }}</p>

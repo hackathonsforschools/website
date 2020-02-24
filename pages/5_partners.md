@@ -11,7 +11,7 @@ Without our partners, Hackathons for Schools Association wouldn't be possible. T
 <div class="item-container">
   {%- for partner in site.data.partners -%}
   <div class="item">
-    <img class="picture" src="{{ partner.logo | relative_url }}" alt="picture of {{ partner.name }}">
+    <img class="picture" src="/assets/img/partners/{{ partner.logo | relative_url }}" alt="picture of {{ partner.name }}">
     <div class="info">
       <a style="color=black;" href="{{ partner.site }}"><p class="name">{{ partner.name }}</p></a>
       <p class="description">{{ partner.description}}</p>

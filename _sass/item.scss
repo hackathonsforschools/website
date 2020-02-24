@@ -1,6 +1,13 @@
-.item-container {
+.item-container, .signature-container {
   display: grid;
+}
+
+.item-container {
   grid-template-columns: repeat(2, 1fr);
+}
+
+.signature-container {
+  grid-template-columns: repeat(4, 1fr);
 }
 
 .item {
@@ -28,6 +35,11 @@
 
     .date {
       font-size: x-large;
+      color: #363636;
+    }
+
+    .title {
+      font-size: medium;
       color: #363636;
     }
     

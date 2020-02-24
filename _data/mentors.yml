@@ -1,7 +1,7 @@
 # skills are defined in the skills.yml file
 - name: Will Russell
   location: University of Birmingham
-  picture: /assets/img/team/WillRussell.jpg
+  picture: WillRussell.jpg
   skills:
     - python
     - java
@@ -12,13 +12,13 @@
     - csharp
 - name: Lauren Alie
   location: University of Birmingham
-  picture: /assets/img/team/LaurenAlie.jpg
+  picture: LaurenAlie.jpg
   skills:
     - java
     - html
 - name: Jacob Wilson
   location: University of Birmingham
-  picture: /assets/img/team/JacobWilson.jpg
+  picture: JacobWilson.jpg
   skills:
     - python
     - java
@@ -26,7 +26,7 @@
     - git
 - name: Daniel Spencer
   location: University of Warwick
-  picture: /assets/img/team/DanielSpencer.jpg
+  picture: DanielSpencer.jpg
   skills:
     - python
     - js
@@ -35,7 +35,7 @@
     - git
 - name: Jen Ollett
   location: University of Sheffield
-  picture: /assets/img/team/JenOllett.jpg
+  picture: JenOllett.jpg
   skills:
     - python
     - java
@@ -43,14 +43,14 @@
     - css
 - name: Charlie de Freitas
   location: University of Birmingham
-  picture: /assets/img/team/CharliedeFreitas.jpg
+  picture: CharliedeFreitas.jpg
   skills:
     - python
     - java
     - git
 - name: Melissa Quail
   location: University of Cambridge
-  picture: /assets/img/team/MelissaQuail.jpg
+  picture: MelissaQuail.jpg
   skills:
     - python
     - csharp
@@ -58,7 +58,7 @@
     - git
 - name: Lik Kan Chung
   location: University of Birmingham
-  picture: /assets/img/team/LikkanChung.jpg
+  picture: LikkanChung.jpg
   skills:
     - java
     - python
@@ -67,7 +67,7 @@
     - css
 - name: Jack Biggin
   location: University of Leeds
-  picture: /assets/img/team/JackBiggin.jpg
+  picture: JackBiggin.jpg
   skills:
     - js
     - html
@@ -75,7 +75,7 @@
     - git
 - name: Justin Chadwell
   location: University of Birmingham
-  picture: /assets/img/team/JustinChadwell.jpg
+  picture: JustinChadwell.jpg
   skills:
     - python
     - js
@@ -85,7 +85,7 @@
     - git
 - name: Megan Maton
   location: University of Sheffield
-  picture: /assets/img/team/MeganMaton.jpg
+  picture: MeganMaton.jpg
   skills:
     - java
     - python

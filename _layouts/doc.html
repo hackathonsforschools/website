@@ -1,0 +1,37 @@
+{% include share_thumbnail.html page=page %}
+
+<!DOCTYPE html>
+
+<html lang="en">
+{% include head.html %}
+
+<body>
+    {% include navbar.html %}
+    <div class="content">
+        <article class="feature-image">
+            <header id="main" class="background-gradient">
+                <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title">
+                    {{ page.title }}
+                </h1>
+
+                {% if page.subtitle %}
+                <h2 class="subtitle">{{ page.subtitle }}</h2>
+                {% endif %}
+
+            </header>
+            <section class="post-content">
+                {% if page.bootstrap %}
+                <div class="bootstrap-iso">
+                    {% endif %}
+                    {{ content }}
+                    {% if page.bootstrap %}
+                </div>
+                {% endif %}
+            </section>
+
+        </article>
+    </div>
+    {% include footer.html %}
+</body>
+
+</html>
