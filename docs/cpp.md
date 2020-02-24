@@ -91,10 +91,10 @@ Sexual abuse involves the sexual exploitation or The activities may involve:
 
 Neglect is the fail to care properly for a child. It may involve, but is not limited to, a parent or carer failing to provide:
 
-- Sufficient Food & drink;
+- Sufficient food & drink;
 - Shelter;
 - A safe home;
-- Physical, Medical and Mental care.
+- Physical, medical and mental care.
 
 ## How to recognise the signs of abuse
 
