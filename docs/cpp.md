@@ -20,29 +20,30 @@ This policy applies exclusively to EVENTS held and/or organised by **HSFA**. Thi
 
 ## We recognise that:
 
-- The welfare of the child/young person is paramount, as enshrined in the Children Act 1989.
-- All children, regardless of age, disability, gender, racial heritage, religious belief, sexual orientation or identity, have the right to equal protection from all types of harm or abuse.
-- Some children are additionally vulnerable because of the impact of previous experiences, their level of dependency, communication needs or other issues.
-- Working in partnership with children, young people, their parents, carers and their agencies is essential in promoting young people’s welfare.
+- The welfare of the child/young person is paramount, as enshrined in the Children Act 1989;
+- All children, regardless of age, disability, gender, racial heritage, religious belief, sexual orientation or identity, have the right to equal protection from all types of harm or abuse;
+- Some children are additionally vulnerable because of the impact of previous experiences, their level of dependency, communication needs or other issues;
+- Working in partnership with children, young people, their parents, carers and their agencies is essential in promoting young people’s welfare;
 
 ## We will seek to safeguard children and young people by:
 
-- Valuing them, listening to and respecting them.
-- Adopting child protection practices through procedures and a [code of conduct](/docs/code-of-conduct) for staff and volunteers.
-- Developing and implementing an effective e-safety policy and related procedures.
-- Providing effective management for staff and volunteers through supervision, support and training.
-- Recruiting staff and volunteers safely, ensuring all necessary checks are made.
-- Sharing information about child protection and good practice with children, parents, staff and volunteers.
-- Sharing concerns with agencies who need to know and involving parents and children appropriately. 
+- Valuing them, listening to and respecting them;
+- Adopting child protection practices through procedures and a [code of conduct](/docs/code-of-conduct) for staff and volunteers;
+- Developing and implementing an effective e-safety policy and related procedures;
+- Providing effective management for staff and volunteers through supervision, support and training;
+- Recruiting staff and volunteers safely, ensuring all necessary checks are made;
+- Sharing information about child protection and good practice with children, parents, staff and volunteers;
+- Sharing concerns with agencies who need to know and involving parents and children appropriately;
 
 ## Duty of employees, directors and volunteers:
 
 Every employee and director of **HFSA**, as well as every volunteer who assists in any events is under a general legal duty:
--  To protect children and young people from abuse.
-- To be aware of the **HFSA**’s child protection procedures and to follow them.
-- To know how to access and implement the procedures, independently if necessary.
-- To keep a sufficient record of any significant complaint, conversation or event.
-- To report any matters of concern. 
+
+- To protect children and young people from abuse;
+- To be aware of the **HFSA**’s child protection procedures and to follow them;
+- To know how to access and implement the procedures, independently if necessary;
+- To keep a sufficient record of any significant complaint, conversation or event;
+- To report any matters of concern;
 
 ## Legal Framework
 
