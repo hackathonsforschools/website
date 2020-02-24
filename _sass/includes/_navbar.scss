@@ -15,7 +15,7 @@
 
 .site-header {
   //padding-bottom: 1%;
-  padding: 2% 2% 1% 2%;
+  padding: 2% 2% 1% 2%; 
   background: $brand-color;
   display: inline-block;
   float: left;
@@ -92,6 +92,12 @@
 
 /* ---- Responsive ---- */
 
+@media(max-width: 1200px) {
+  .site-title {
+    display: none;
+  }
+}
+
 @media (min-width: $break) {
   a#pull {
     display: none;
@@ -133,7 +139,8 @@
       li {
         width: 100%;
         text-align: center;
-        font-size: 1em;
+        font-size: 2em;
+        margin-top: 16px;
         position: relative;
         background-color: darken($background-color, 2%);
 
