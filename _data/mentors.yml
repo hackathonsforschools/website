@@ -1,7 +1,7 @@
 # skills are defined in the skills.yml file
-- name: Will Russell
+- name: Will
   location: University of Birmingham
-  picture: WillRussell.jpg
+  picture: Will.jpg
   skills:
     - python
     - java
@@ -10,72 +10,72 @@
     - html
     - css
     - csharp
-- name: Lauren Alie
+- name: Lauren
   location: University of Birmingham
-  picture: LaurenAlie.jpg
+  picture: Lauren.jpg
   skills:
     - java
     - html
-- name: Jacob Wilson
+- name: Jacob
   location: University of Birmingham
-  picture: JacobWilson.jpg
+  picture: Jacob.jpg
   skills:
     - python
     - java
     - gcp
     - git
-- name: Daniel Spencer
+- name: Daniel
   location: University of Warwick
-  picture: DanielSpencer.jpg
+  picture: Daniel.jpg
   skills:
     - python
     - js
     - html
     - css
     - git
-- name: Jen Ollett
+- name: Jack
+  location: University of Leeds
+  picture: Jack.jpg
+  skills:
+    - js
+    - html
+    - css
+    - git
+- name: Jen
   location: University of Sheffield
-  picture: JenOllett.jpg
+  picture: Jen.jpg
   skills:
     - python
     - java
     - html
     - css
-- name: Charlie de Freitas
+- name: Charlie
   location: University of Birmingham
-  picture: CharliedeFreitas.jpg
+  picture: Charlie.jpg
   skills:
     - python
     - java
     - git
-- name: Melissa Quail
+- name: Melissa
   location: University of Cambridge
-  picture: MelissaQuail.jpg
+  picture: Melissa.jpg
   skills:
     - python
     - csharp
     - android
     - git
-- name: Lik Kan Chung
+- name: Lik Kan
   location: University of Birmingham
-  picture: LikkanChung.jpg
+  picture: Likkan.jpg
   skills:
     - java
     - python
     - vb
     - html
     - css
-- name: Jack Biggin
-  location: University of Leeds
-  picture: JackBiggin.jpg
-  skills:
-    - js
-    - html
-    - css
-    - git
-- name: Justin Chadwell
+- name: Justin
   location: University of Birmingham
-  picture: JustinChadwell.jpg
+  picture: Justin.jpg
   skills:
     - python
     - js
@@ -83,9 +83,9 @@
     - css
     - gcp
     - git
-- name: Megan Maton
+- name: Megan
   location: University of Sheffield
-  picture: MeganMaton.jpg
+  picture: Megan.jpg
   skills:
     - java
     - python
