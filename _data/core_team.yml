@@ -1,16 +1,16 @@
-- name: Will Russell
+- name: Will
   role: Founder
   location: University of Birmingham
-  picture: WillRussell.jpg
-- name: Jacob Wilson
+  picture: Will.jpg
+- name: Jacob
   role: Partnerships
   location: University of Birmingham
-  picture: JacobWilson.jpg
-- name: Lauren Alie
+  picture: Jacob.jpg
+- name: Lauren
   role: Outreach
   location: University of Birmingham
-  picture: LaurenAlie.jpg
-- name: Daniel Spencer
+  picture: Lauren.jpg
+- name: Daniel
   role: Technology
   location: University of Warwick
-  picture: DanielSpencer.jpg
+  picture: Daniel.jpg
