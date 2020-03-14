@@ -3,9 +3,24 @@ layout: page
 title: Get Started
 permalink: /get-started/
 ---
+
+
 # Interested in running your own hackathon?
 
 Take a look at this page for everything you need to run your own hackathon.
+
+## Get in contact and we can walk you through the process!
+
+<div style="margin-top: 16px">
+    <br><a id="home-button" href="https://m.me/hackathonsforschools">Message us!</a><br>
+</div>
+<br>
+<div style="margin-top: 16px">
+    <br><a id="home-button" href="mailto:contact@hackathonsforschools.com">Email us!</a><br>
+</div>
+<br>
+
+
 
 ## What do you need?
 
