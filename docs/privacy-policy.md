@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Privacy Policy
-permalink: /privacy/
+permalink: /docs/privacy/
 hide: true
 ---
 
