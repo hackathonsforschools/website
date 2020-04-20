@@ -1,6 +1,6 @@
 # Icons on the footer
 rss: false         # Make sure you created a feed.xml with feed.xml layout
-email_address: "contact@hackathonsforschools.com"   # Full email address, e.g. "sam@example.com"
+email_address: "hello@hackathonsforschools.com"   # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:

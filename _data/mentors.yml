@@ -73,16 +73,6 @@
     - vb
     - html
     - css
-- name: Justin
-  location: University of Birmingham
-  picture: Justin.jpg
-  skills:
-    - python
-    - js
-    - html
-    - css
-    - gcp
-    - git
 - name: Megan
   location: University of Sheffield
   picture: Megan.jpg

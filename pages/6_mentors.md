@@ -2,7 +2,7 @@
 layout: page
 title: Mentors
 permalink: /mentors/
-
+hide: true
 ---
 
 ## It wouldn't be possible to do any of what we do without our fantastic team of mentors!
