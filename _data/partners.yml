@@ -10,6 +10,10 @@
   site: https://www.compsoc.tech/
   logo: durham_compsoc.png
   description: Durham University Computing Society is run entirely by students and serves to promote programming, development, and general computing within both Durham University and the wider community.
+- name: Hack Quarantine
+  site: https://hackquarantine.com
+  logo: hq.png
+  description: 3 week global hackathon trying to solve the problems surrounding COVID-19.
 
 #- name: Hackathon Hackers Europe
 #  site: https://hackathonhackers.eu/
