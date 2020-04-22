@@ -11,7 +11,7 @@ Official website for the Hackathons for Schools Association Website. All our res
 ```bash
 $ git clone https://github.com/hackathonsforschools/website.git
 $ cd website
-$ bundle config set path 'vendor/bundle'
+$ bundle install
 $ bundle exec jekyll serve
 ```
 
