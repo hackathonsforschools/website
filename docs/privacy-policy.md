@@ -48,7 +48,7 @@ We collect your data so that we can:
 - To review project submissions
 - To review talk and workshop applications
 - To schedule our activities
-- To enforce the Major League Hacking Code of Conduct
+- To enforce the Hackathons for Schools Association Code of Conduct
 
 ## How we store your data?
 
