@@ -113,7 +113,7 @@ You can set your browser not to accept cookies, and the above website tells you 
 
 ## Privacy policies of other websites
 
-- Our websites contain links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
+Our websites contain links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
 
 ## Changes to our privacy policy
 
