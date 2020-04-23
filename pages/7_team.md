@@ -4,6 +4,8 @@ title: Team
 permalink: /team/
 ---
 
+Here's the awesome people behind Hackathons for Schools Association!
+
 <div class="item-container">
   {% for person in site.data.core_team %}
   <div class="item">

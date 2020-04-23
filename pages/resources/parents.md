@@ -28,4 +28,4 @@ Major League Hacking have a great guide for parents [here](https://mlh.io/parent
 
 --- 
 
-If you still have questions, don't hesitate to ask via [email](mailto:contact@hackathonsforschools.com) or on any of our social media pages!
+If you still have questions, don't hesitate to ask via [email](mailto:hello@hackathonsforschools.com) or on any of our social media pages!

@@ -29,4 +29,4 @@ scripts:
 
 --- 
 ## Interested in becoming a member event?
-Please get in contact if you would like to become a member event! We'd love to help you make the most out of your event. Get in touch by [email](mailto:contact@hackathonsforschools.com "Email").
+Please get in contact if you would like to become a member event! We'd love to help you make the most out of your event. Get in touch by [email](mailto:hello@hackathonsforschools.com "Email").

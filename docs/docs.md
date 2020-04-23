@@ -13,4 +13,6 @@ hide: true
 
 - [Equal Opportunities Policy](./equal-opportunities)
 
+- [Privacy Policy](./privacy)
+
 - [Sponsorshp Prospectus](/sponsor/)
