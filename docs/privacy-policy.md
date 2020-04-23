@@ -72,7 +72,7 @@ If you no longer wish to be contacted for marketing purposes, please unsubscribe
 
 We would like to make sure you are fully aware of your data protection rights. Every user is entitled to the following:
 
-**The right to access - You have the right to request us for copies of your personal data. We may charge a small admin fee associated with the cost of labour for this service.
+**The right to access** - You have the right to request us for copies of your personal data. We may charge a small admin fee associated with the cost of labour for this service.
 
 **The right to rectification** - You have the right to request that we correct any information you believe is inaccurate. You also have the right to request us to complete the information you believe is incomplete.
 
