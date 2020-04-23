@@ -58,16 +58,6 @@ Due to a change in [Google's Terms and Service](https://policies.google.com/term
 
 We may keep any data we collect about you for up to 12 months. Once this time period has expired we will delete your data.
 
-## Marketing
-
-We would like to send you information about products and services of ours that we think you might like as well as those of our partners.
-
-If you have agreed to receive marketing, you may always opt out at a later date.
-
-You have the right at any time to stop us from contacting you for marketing purposes.
-
-If you no longer wish to be contacted for marketing purposes, please unsubscribe at the bottom of one of our emails.
-
 ## What are your data protection rights?
 
 We would like to make sure you are fully aware of your data protection rights. Every user is entitled to the following:
