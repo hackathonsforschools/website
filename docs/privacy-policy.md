@@ -27,7 +27,7 @@ Topics:
 
 ## What data do we collect?
 
-- Personal identification information (name, email address, phone number, social media usernames)
+Personal identification information (name, email address, phone number, social media usernames)
 
 ## How do we collect your data?
 
@@ -94,7 +94,7 @@ We use cookies in a range of ways to improve your experience on our websites, in
 
 There are a number of different types of cookies, however, our website uses:
 
-- Functionality - We use these cookies so that we recognise you on our websites and remember your previously selected preferences. They could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.
+- Functionality - We use these cookies so that we recognise you on our websites and remember your previously selected preferences. They could include what location you are in. A mix of first-party and third-party cookies are used.
 
 
 ## How to manage cookies
