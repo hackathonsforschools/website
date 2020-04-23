@@ -27,7 +27,7 @@ Topics:
 
 ## What data do we collect?
 
-- Personal identification information (name, email address, phone number, - social media usernames)
+- Personal identification information (name, email address, phone number, social media usernames)
 
 ## How do we collect your data?
 
