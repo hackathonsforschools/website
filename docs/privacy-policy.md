@@ -46,9 +46,9 @@ We collect your data so that we can:
 - Ensure the adequate safeguarding of minors engaging in our activities
 - Email you about relevant information pertaining to your engagement with - our activities
 - To review project submissions
-- To review talk and workshop applications
-- To schedule our activities
-- To enforce the [Hackathons for Schools Association Code of Conduct](/code-of-conduct)
+- Review talk and workshop applications
+- Schedule our activities
+- Enforce the [Hackathons for Schools Association Code of Conduct](/code-of-conduct)
 
 ## How we store your data?
 
