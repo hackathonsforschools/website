@@ -48,11 +48,15 @@ We collect your data so that we can:
 - To review project submissions
 - To review talk and workshop applications
 - To schedule our activities
-- To enforce the Hackathons for Schools Association Code of Conduct
+- To enforce the [Hackathons for Schools Association Code of Conduct](/code-of-conduct)
 
 ## How we store your data?
 
-TBC
+Data collected via Google Drive services, including Google Forms, are stored on William Russell's Google Drive account. This is only shared between the Hackathons for Schools Association Core Team.
+
+Due to a change in [Google's Terms and Service](https://policies.google.com/terms/update?hl=en-US), this data may be stored in either Europe or the United States of America.
+
+We may keep any data we collect about you for up to 12 months. Once this time period has expired we will delete your data.
 
 ## Marketing
 
