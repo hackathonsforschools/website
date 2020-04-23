@@ -6,9 +6,9 @@
 
 #home-button {
     font-size: xx-large;
-    font-weight: 900;
+    font-weight: 700;
     color: white;
-    background-color: #9f03ff;
+    background-color: #5c47ff;
     padding: 16px;
     border-radius: 16px;
     text-shadow: black 8px;
@@ -16,6 +16,6 @@
     box-shadow: 0 0 .2rem rgba(0,0,0,.1),0 .2rem .4rem rgba(0,0,0,.2);
 }
 
-#button:hover{
-    background: #1794fe;
+#home-button:hover{
+    background: #2d12ff;
 }
