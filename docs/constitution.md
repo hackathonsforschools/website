@@ -5,11 +5,11 @@ permalink: /docs/constitution/
 hide: true
 ---
 
-The following document is the constitution for the **Hackathons for Schools Association**. **Hackathons for Schools Association** is an Unincorporated Association and will sometimes be referred to as **H4S** throughout this document.
+The following document is the constitution for the **Hackathons for Schools**. **Hackathons for Schools** is an Unincorporated Association and will sometimes be referred to as **H4S** throughout this document.
 
 ## Aims
 
-The aims of Hackathons for Schools Association are as follows:
+The aims of Hackathons for Schools are as follows:
 
 - To involve more under-18s in the hackathon community - primarily focussed on the UK community.
 - To introduce under-18s to the prospect of careers in technology.
@@ -17,11 +17,11 @@ The aims of Hackathons for Schools Association are as follows:
 
 ## Roles
 
-There are two role categories for the **Hackathons for Schools Association**. Volunteers can be a Mentor, or a member of the core organisational team, referred to as the Core Team. Members of the Core Team are encouraged to take part in mentorship activities too. The responsibilities of mentors are mainly attending events where they will be helping the students gain the best experience as well as running workshops. Members of the Core Team have added responsibility, including maintenance of the website, creation of workshops to be delivered and establishing relationships with schools and partnering companies.
+There are two role categories for the **Hackathons for Schools**. Volunteers can be a Mentor, or a member of the core organisational team, referred to as the Core Team. Members of the Core Team are encouraged to take part in mentorship activities too. The responsibilities of mentors are mainly attending events where they will be helping the students gain the best experience as well as running workshops. Members of the Core Team have added responsibility, including maintenance of the website, creation of workshops to be delivered and establishing relationships with schools and partnering companies.
 
 Anyone who wishes to join as a Mentor should make this known to the Core Team. Joining the Core Team is not currently an option but will be considered where deemed necessary.
 
-Anyone can leave the Hackathons for Schools Association at any time and should make this known to the Core Team. Members may be asked to leave if a majority of the Core Team members believe that they are acting in a way which is explicitly against the aims of the association.
+Anyone can leave Hackathons for Schools at any time and should make this known to the Core Team. Members may be asked to leave if a majority of the Core Team members believe that they are acting in a way which is explicitly against the aims of the association.
 
 
 ## Equal Opportunities
@@ -36,13 +36,13 @@ This meeting will be carried out over a voice call, and all members will be noti
 
 ## Finances
 
-Finances for the **Hackathons for Schools Association** will be managed by the Core Team, who will be required to approve all expenditure on behalf of **H4S**. All financial transactions involving **H4S** must be recorded. This will primarily include travel to events where the member is representing **H4S**. Only standard-class travel will be paid for, but a member can choose to upgrade if they are willing to pay the difference.
+Finances for the **Hackathons for Schools** will be managed by the Core Team, who will be required to approve all expenditure on behalf of **H4S**. All financial transactions involving **H4S** must be recorded. This will primarily include travel to events where the member is representing **H4S**. Only standard-class travel will be paid for, but a member can choose to upgrade if they are willing to pay the difference.
 
 ## Changes to the Constitution
 
 Changes can be made to the constitution by voting on it. A suggestion should be raised with the Core Team, who are then able to arrange a way for all members to voice their opinion and vote on the inclusion of the amendment.
 
-## Dissolution of the Hackathons for Schools Association
+## Dissolution of Hackathons for Schools
 
 In order for **H4S** to be dissolved, the following procedure must be followed:
 - Members notified of a Special General Meeting.
@@ -53,7 +53,7 @@ In order for **H4S** to be dissolved, the following procedure must be followed:
 
 ---
 
-This constitution has been agreed to by all members of the **Hackathons for Schools Association** and agreed by all members of the Core Team on the 23rd February 2020.
+This constitution has been agreed to by all members of the **Hackathons for Schools** and agreed by all members of the Core Team on the 23rd February 2020.
 
 <div class="signature-container">
   {%- for person in site.data.constitution -%}

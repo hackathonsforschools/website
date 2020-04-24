@@ -5,7 +5,7 @@ permalink: /docs/child-protection-policy/
 hide: true
 ---
 
-_For the purpose of this document, a child is defined as anyone who has not reached their 18th birthday. From this point, Hackathons for Schools Association will be referred to as H4S._
+_For the purpose of this document, a child is defined as anyone who has not reached their 18th birthday. From this point, Hackathons for Schools will be referred to as H4S._
 
 ---
 
