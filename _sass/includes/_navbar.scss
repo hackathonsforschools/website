@@ -107,7 +107,7 @@
 @media screen and (max-width: $break) {
   .site-header {
     img.avatar {
-      margin-top: -7px
+      margin-top: -7px;
     }
 
     .site-title {
@@ -125,20 +125,16 @@
     ul {
       overflow: hidden;
 
-      /* fade out, then shrink */
-      transition: opacity .5s .25s, font-size .5s .25s;
-
       &.hide {
         font-size: 0;
         margin: 0;
         opacity: 0;
         padding: 0;
       }
-
       li {
         width: 100%;
         text-align: center;
-        font-size: 2em;
+        font-size: 1em;
         margin-top: 16px;
         position: relative;
         background-color: darken($background-color, 2%);
