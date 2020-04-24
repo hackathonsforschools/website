@@ -56,7 +56,35 @@ h1, h2, h3, h4, h5, h6 {
     height: 2em;
 }
 
-.tagline {
-    font-weight: 500;
+.main .tagline {
+    font-weight: normal;
     margin-bottom: 0.5em;
 }
+
+@media screen and (max-width: 1000px) {
+    .main .name {
+        font-size: 2em;
+    }
+
+    .main .tagline {
+        font-size: 1.5em;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .main .tagline {
+        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .main .name {
+        font-size: 1em;
+    }
+    .main .tagline {
+        font-size: 0.5em;
+    }
+    .main .btn-outline-primary {
+        margin: 5px;
+    }
+} 
