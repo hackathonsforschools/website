@@ -5,7 +5,7 @@ permalink: /docs/constitution/
 hide: true
 ---
 
-The following document is the constitution for the **Hackathons for Schools Association**. **Hackathons for Schools Association** is an Unincorporated Association and will sometimes be referred to as **HFSA** throughout this document.
+The following document is the constitution for the **Hackathons for Schools Association**. **Hackathons for Schools Association** is an Unincorporated Association and will sometimes be referred to as **H4S** throughout this document.
 
 ## Aims
 
@@ -36,7 +36,7 @@ This meeting will be carried out over a voice call, and all members will be noti
 
 ## Finances
 
-Finances for the **Hackathons for Schools Association** will be managed by the Core Team, who will be required to approve all expenditure on behalf of **HFSA**. All financial transactions involving **HFSA** must be recorded. This will primarily include travel to events where the member is representing **HFSA**. Only standard-class travel will be paid for, but a member can choose to upgrade if they are willing to pay the difference.
+Finances for the **Hackathons for Schools Association** will be managed by the Core Team, who will be required to approve all expenditure on behalf of **H4S**. All financial transactions involving **H4S** must be recorded. This will primarily include travel to events where the member is representing **H4S**. Only standard-class travel will be paid for, but a member can choose to upgrade if they are willing to pay the difference.
 
 ## Changes to the Constitution
 
@@ -44,12 +44,12 @@ Changes can be made to the constitution by voting on it. A suggestion should be 
 
 ## Dissolution of the Hackathons for Schools Association
 
-In order for **HFSA** to be dissolved, the following procedure must be followed:
+In order for **H4S** to be dissolved, the following procedure must be followed:
 - Members notified of a Special General Meeting.
 - Members must vote on whether the dissolution will go ahead, a majority must be reached.
 - Finances must be in order:
     - Members must all be reimbursed for agreed expenditure.
-    - Remaining money should be given to a group with aims in line with those of the **HFSA**.
+    - Remaining money should be given to a group with aims in line with those of the **H4S**.
 
 ---
 
