@@ -11,7 +11,7 @@ favicon: assets/img/logo/favicon.ico                             # Icon displaye
 
 # Header and footer text
 header_text: Getting more 15-18 year olds involved with hackathons! 🔥🎉                                          # Change Blog header text
-header_feature_image: assets/img/background.png
+header_feature_image: assets/img/social.jpg
 footer_text: >
   Made by students, for students
 
