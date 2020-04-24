@@ -17,4 +17,4 @@ $ bundle exec jekyll serve
 
 ## Contributors
 
-This website is maintained primarily by the Hackathans for Schools Core Team.
+This website is maintained primarily by the Hackathons for Schools Core Team.
