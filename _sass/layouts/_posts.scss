@@ -100,6 +100,10 @@ header {
   .post-content {
     @extend %padding-post;
     padding-bottom: 0;
+
+    a {
+      color: #5c47ff;
+    }
   }
 
   footer {
