@@ -8,27 +8,38 @@ h1, h2, h3, h4, h5, h6 {
     color: #f1f2f6;
 }
 
-.main {
+body {
     background: linear-gradient(135deg, rgba(145,45,245,1) 30%, rgba(68,155,247,1) 100%);
-    height: 100vh;
-    text-align: center;
-    position: fixed;
-    width: 100%;
+    background-size: cover;
 }
 
-
-.logo {
-    width: 50vw;
-}
-
-.my-auto { /* fixes main centering */
-    margin-top: auto;
-    margin-bottom: auto;
+.centre {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .main {
     color: #FFFFFF;
+    text-align: center;
     font-size: 1.5em;
+}
+
+.logo {
+    color: white;
+    margin-bottom: 0.5em;
+}
+
+.logo img {
+    max-width: 20em;
+}
+
+.logo .name {
+    font-size: 2.5em;
+}
+
+.tagline {
     margin-bottom: 1em;
 }
 
@@ -47,69 +58,19 @@ h1, h2, h3, h4, h5, h6 {
     color: #5c47ff;
 }
 
-.main .name {
-    color: white;
-    font-size: 3em;
-    margin-bottom: 0.5em;
-}
-
-.main .name img {
-    height: 2em;
-}
-
-.main .tagline {
-    font-weight: normal;
-    margin-bottom: 0.5em;
-}
-
-.main .intro {
-    margin-left: 100px;
-    margin-right: 100px;
-}
-
-
-hr {
-    display: block;
-    height: 8px;
-    background-color: #5c47ff;
-    border-color: #5c47ff;
-    border-radius: 20px;
-    box-shadow: 0 20px 50px rgba(59, 43, 91, 0.7);
-    margin: 20px;
-    margin-left: 200px;
-    margin-right: 200px
-}
-
 .summer-container {
     margin-top: 50px;
     margin-bottom: 50px;
 }
 
 @media screen and (max-width: 1000px) {
-    .main .name {
-        font-size: 2em;
+    .main {
+        font-size: 1.2em;
     }
-
-    .main .tagline {
-        font-size: 1.5em;
-    }
-    
 }
 
 @media screen and (max-width: 500px) {
-    .main .tagline {
+    .main {
         font-size: 1em;
     }
 }
-
-@media screen and (max-width: 400px) {
-    .main .name {
-        font-size: 1em;
-    }
-    .main .tagline {
-        font-size: 0.5em;
-    }
-    .main .btn-outline-primary {
-        margin: 5px;
-    }
-} 
