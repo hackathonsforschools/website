@@ -5,7 +5,7 @@ permalink: /docs/privacy/
 hide: true
 ---
 
-This privacy policy will explain how Hackathons for Schools Association (“us”, “we”, “our”) uses the personal data we collect from you when you use hackathonsforschools.com (“our websites”) and our Discord server or Google Forms (“our services”).
+This privacy policy will explain how Hackathons for Schools (“us”, “we”, “our”) uses the personal data we collect from you when you use hackathonsforschools.com (“our websites”) and our Discord server or Google Forms (“our services”).
 
 Topics:
 
@@ -48,11 +48,11 @@ We collect your data so that we can:
 - To review project submissions
 - Review talk and workshop applications
 - Schedule our activities
-- Enforce the [Hackathons for Schools Association Code of Conduct](/code-of-conduct)
+- Enforce the [Hackathons for Schools Code of Conduct](/code-of-conduct)
 
 ## How we store your data?
 
-Data collected via Google Drive services, including Google Forms, are stored on William Russell's Google Drive account. This is only shared between the Hackathons for Schools Association Core Team.
+Data collected via Google Drive services, including Google Forms, are stored on William Russell's Google Drive account. This is only shared between Hackathons for Schools Core Team.
 
 Due to a change in [Google's Terms and Service](https://policies.google.com/terms/update?hl=en-US), this data may be stored in either Europe or the United States of America.
 

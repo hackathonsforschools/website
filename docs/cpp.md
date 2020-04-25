@@ -5,17 +5,17 @@ permalink: /docs/child-protection-policy/
 hide: true
 ---
 
-_For the purpose of this document, a child is defined as anyone who has not reached their 18th birthday. From this point, Hackathons for Schools Association will be referred to as HFSA._
+_For the purpose of this document, a child is defined as anyone who has not reached their 18th birthday. From this point, Hackathons for Schools will be referred to as H4S._
 
 ---
 
-This policy applies exclusively to EVENTS held and/or organised by **HFSA**. This policy applies to all staff, including senior managers, paid staff volunteers, organisers, students, or anyone working on behalf of **HFSA**.
+This policy applies exclusively to EVENTS held and/or organised by **H4S**. This policy applies to all staff, including senior managers, paid staff volunteers, organisers, students, or anyone working on behalf of **H4S**.
 
-**HFSA** believes that it is always unacceptable for a child or young person to experience abuse of any kind and recognises its responsibility to safeguard the welfare of all children and young people, by a commitment to practice which protects them.
+**H4S** believes that it is always unacceptable for a child or young person to experience abuse of any kind and recognises its responsibility to safeguard the welfare of all children and young people, by a commitment to practice which protects them.
 
 ## The purpose of the policy
 
-- To protect children and young people who receive **HFSA** services. This includes the children of adults who use our services;
+- To protect children and young people who receive **H4S** services. This includes the children of adults who use our services;
 - To provide staff and volunteers with the overarching principles that guide our approach to child protection.
 
 ## We recognise that:
@@ -37,10 +37,10 @@ This policy applies exclusively to EVENTS held and/or organised by **HFSA**. Thi
 
 ## Duty of employees, directors and volunteers:
 
-Every employee and director of **HFSA**, as well as every volunteer who assists in any events is under a general legal duty:
+Every employee and director of **H4S**, as well as every volunteer who assists in any events is under a general legal duty:
 
 - To protect children and young people from abuse;
-- To be aware of the **HFSA**’s child protection procedures and to follow them;
+- To be aware of the **H4S**’s child protection procedures and to follow them;
 - To know how to access and implement the procedures, independently if necessary;
 - To keep a sufficient record of any significant complaint, conversation or event;
 - To report any matters of concern.
@@ -177,9 +177,9 @@ If you have suspicions that a member of staff or a volunteer is abusing a child:
 - The member of staff or volunteer involved will be asked to leave the premises immediately.
 - Members of staff must not ask leading questions, that is, a question which suggests its own answer.
 - Members of staff must listen carefully to any allegation made with an open mind. It is not the staff’s decision as to whether or not the abuse has taken place.
-- Members of staff must keep a sufficient written record of the conversation. The record should include the date, time and place of the conversation, the essence of what was said and done by whom and in whose presence. The record should be signed by the person making it and should use names, not initials. The record must be kept securely and handed to a Senior Member of the **HFSA** team.
-- The Child Protection Officer / Designated Safeguarding Person and Senior staff at **HFSA** have the duty to report any allegations to the police.
-- The member of staff involved will not take part in any **HFSA** event until further, thorough investigation has taken place. 
+- Members of staff must keep a sufficient written record of the conversation. The record should include the date, time and place of the conversation, the essence of what was said and done by whom and in whose presence. The record should be signed by the person making it and should use names, not initials. The record must be kept securely and handed to a Senior Member of the **H4S** team.
+- The Child Protection Officer / Designated Safeguarding Person and Senior staff at **H4S** have the duty to report any allegations to the police.
+- The member of staff involved will not take part in any **H4S** event until further, thorough investigation has taken place. 
 
 ## How to respond to a child telling you about abuse
 
@@ -187,8 +187,8 @@ A member of staff suspecting or hearing a complaint of abuse:
 
 - Must listen carefully to the child/young person and keep an open mind. Staff should not take a decision as to whether or not the abuse has taken place.
 - Must not ask leading questions, that is, a question which suggests its own answer.
-- Must reassure the child/young person but not give a guarantee of absolute confidentiality. The member of staff should explain that they need to pass the information to the Child Protection Officer / Designated Safeguarding Person of **HFSA** who will ensure that the correct action is taken.
-- Must keep a sufficient written record of the conversation. The record should include the date, time and place of the conversation, the essence of what was said and done by whom and in whose presence. The record should be signed by the person making it and should use names, not initials. The record must be kept securely and handed to a Senior Member of the **HFSA** team. 
+- Must reassure the child/young person but not give a guarantee of absolute confidentiality. The member of staff should explain that they need to pass the information to the Child Protection Officer / Designated Safeguarding Person of **H4S** who will ensure that the correct action is taken.
+- Must keep a sufficient written record of the conversation. The record should include the date, time and place of the conversation, the essence of what was said and done by whom and in whose presence. The record should be signed by the person making it and should use names, not initials. The record must be kept securely and handed to a Senior Member of the **H4S** team. 
 
 ## How to respond to an allegation against a child:
 
@@ -196,14 +196,14 @@ A member of staff hearing a complaint or allegation against a child:
 
 - Must listen carefully to the person making the complaint with an open mind. Staff should not take a decision as to whether or not the abuse has taken place.
 - Must not ask leading questions, that is, a question which suggests its own answer.
-- Must pass on the information to the Child Protection Officer / Designated Safeguarding Person or Senior Staff at **HFSA**.
+- Must pass on the information to the Child Protection Officer / Designated Safeguarding Person or Senior Staff at **H4S**.
 - Must keep a sufficient written record of the conversation (as above).
-- A child/attendee against whom an allegation of abuse has been made may be asked to leave the **HFSA** event and may be forbidden from attending future **HFSA** organised events. 
+- A child/attendee against whom an allegation of abuse has been made may be asked to leave the **H4S** event and may be forbidden from attending future **H4S** organised events. 
  
 ## Necessary action after reporting signs of abuse:
 
-- **HFSA** will take advice from the Local Authority Designated Officer (LADO) on the investigation of such allegations and will take all appropriate action to ensure the safety and welfare of all children involved including the child or children accused of abuse.
-- If it is necessary for a student to be interviewed by the Police in relation to allegations of abuse, **HFSA** will ensure that, subject to the advice of the LADO, parents are informed as soon as possible, and that the student is supported during the interview by an appropriate adult.
+- **H4S** will take advice from the Local Authority Designated Officer (LADO) on the investigation of such allegations and will take all appropriate action to ensure the safety and welfare of all children involved including the child or children accused of abuse.
+- If it is necessary for a student to be interviewed by the Police in relation to allegations of abuse, **H4S** will ensure that, subject to the advice of the LADO, parents are informed as soon as possible, and that the student is supported during the interview by an appropriate adult.
 
 ## How information will be recorded:
 Child Abuse Concern Report.
@@ -212,16 +212,16 @@ Child Abuse Concern Report.
 
 Privacy and confidentiality should be respected where possible, but if doing this leaves a child at risk of harm then the child’s safety must come first.
 
-- **HFSA** believes the safety and security of a child is paramount and overrides all confidentiality protocols when necessary.
-- Information will not leave **HFSA** unless necessary.
-- Any information reported will only be given to the LADO, police, or Senior officers at **HFSA**.
-- Any action taken to relay sensitive information to any external authority will first be cleared by the Child Protection Officer / Designated Safeguarding Person at **HFSA**. 
+- **H4S** believes the safety and security of a child is paramount and overrides all confidentiality protocols when necessary.
+- Information will not leave **H4S** unless necessary.
+- Any information reported will only be given to the LADO, police, or Senior officers at **H4S**.
+- Any action taken to relay sensitive information to any external authority will first be cleared by the Child Protection Officer / Designated Safeguarding Person at **H4S**. 
 
 ## Implementation 
 
 This policy will be implemented as of the 24/02/2020. William Russell, our Child Protection Officer, will be ensuring throughout our events that this policy is abided by at all times.
 
-We are committed to reviewing our policy and good practice before every event held by **HFSA**.
+We are committed to reviewing our policy and good practice before every event held by **H4S**.
 
 This policy was last reviewed on 24/02/2020:
 

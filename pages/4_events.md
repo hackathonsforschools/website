@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Member Events
+title: Events
 permalink: /events/
 styles:
   - url: https://unpkg.com/@fullcalendar/core@4.3.0/main.min.css

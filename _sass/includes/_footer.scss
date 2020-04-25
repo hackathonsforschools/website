@@ -3,7 +3,8 @@
   display: inline-block;
   text-align: center;
   width: 100%;
-  color: lighten($text-color, 24%);
+  background-color: #5c47ff;
+  color: #ffffff;//lighten($text-color, 24%);
   font-size: 0.9em;
 
   .footer-icons {

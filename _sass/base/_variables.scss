@@ -1,7 +1,7 @@
 // Typography
-$font-family-main: 'Source Sans Pro', Helvetica, Arial, sans-serif;
-$font-family-headings: 'Source Sans Pro', Helvetica, Arial, sans-serif;
-$font-family-logo: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+$font-family-main: 'Poppins', Helvetica, Arial, sans-serif;
+$font-family-headings: 'Poppins', Helvetica, Arial, sans-serif;
+$font-family-logo: 'Poppins', Helvetica, Arial, sans-serif;
 $font-size: 1.25em;
 
 // Padding
@@ -21,8 +21,8 @@ $sm-break: 576px;
 $x-sm-break: 300px;
 
 // Brand colours
-$theme-color: #337ab7;
-$brand-color: #fff;
+$theme-color: #ffffff;
+$brand-color: #5c47ff;
 $background-color: #fff;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
@@ -39,7 +39,7 @@ $text-shadow: #3f3f3f;
 $search-color: #999;
 
 // Header colours
-$header-link-color: #383838;
+$header-link-color: #ffffff;
 $navbar-separator-opacity: 0;
 
 // Feature image for articles

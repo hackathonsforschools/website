@@ -4,7 +4,7 @@ title: Partners
 permalink: /partners/
 ---
 
-Without our partners, Hackathons for Schools Association wouldn't be possible. They provide us with the resources and information that we use to run the highest quality hackathons and workshops in schools all across the country.
+Without our partners, Hackathons for Schools wouldn't be possible. They provide us with the resources and information that we use to run the highest quality hackathons and workshops in schools all across the country.
 
 ---
 

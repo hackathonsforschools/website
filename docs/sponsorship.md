@@ -7,7 +7,7 @@ hide: true
 
 ## Who are we?
 
-At the **Hackathons for School Association** our mission is to improve the technology opportunities in schools, and to introduce more 15 to 18-year-olds to the world of hackathons and technology. We are a group of students who study STEM subjects at universities in the UK.
+At **Hackathons for Schools** our mission is to improve the technology opportunities in schools, and to introduce more 15 to 18-year-olds to the world of hackathons and technology. We are a group of students who study STEM subjects at universities in the UK.
 
 ## What can we offer you?
 
@@ -24,4 +24,3 @@ There are a number of ways in which you can help us, these could include: provid
 ## Sponsorship Options
 
 TBC
-
