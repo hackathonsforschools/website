@@ -37,6 +37,7 @@ body {
 
 .logo .name {
     font-size: 2.5em;
+    font-weight: bolder;
 }
 
 .tagline {
@@ -48,6 +49,7 @@ body {
     background-color: #5c47ff;
     border-color: #5c47ff;
     border-radius: 20px;
+    font-weight: bold;
     box-shadow: 0 20px 50px rgba(59, 43, 91, 0.7);
     margin: 3px;
 }
@@ -58,9 +60,25 @@ body {
     color: #5c47ff;
 }
 
-.summer-container {
+.summer-container, .info-container {
     margin-top: 50px;
     margin-bottom: 50px;
+}
+
+.info-box {
+    position: relative;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255, 100);
+    box-shadow: 0 20px 50px rgba(59, 43, 91, 0.7);
+}
+
+.info-box p {
+    color: black;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: left;
 }
 
 @media screen and (max-width: 1000px) {
@@ -73,4 +91,17 @@ body {
     .main {
         font-size: 1em;
     }
+}
+
+hr {
+    display: block;
+    height: 8px;
+    background-color: #5c47ff;
+    border-color: #5c47ff;
+    border-radius: 20px;
+    box-shadow: 0 20px 50px rgba(59, 43, 91, 1.0);
+    margin: 20px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px
 }
