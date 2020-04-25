@@ -80,7 +80,7 @@ If you make a request, we have one month to respond to you. If you would like to
 ## Cookies
 Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. When you visit our websites, we may collect information from you automatically through cookies or similar technology.
 
-For further information, visit (allaboutcookies.org)[https://allaboutcookies.org]
+For further information, visit [allaboutcookies.org](https://allaboutcookies.org).
 
 ## How do we use cookies?
 We use cookies in a range of ways to improve your experience on our websites, including:
