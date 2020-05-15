@@ -1,0 +1,109 @@
+/* font override */
+/*
+p, h1, h2, h3, h4, h5, h6, button, .name, .tagline {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    color: #f1f2f6;
+}
+
+body {
+    background: linear-gradient(135deg, rgba(145,45,245,1) 30%, rgba(68,155,247,1) 100%);
+    background-size: cover;
+}
+*/
+
+.centre {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.logo {
+    color: white;
+    margin-bottom: 0.5em;
+}
+
+.logo img {
+    max-width: 20em;
+}
+
+.logo .name {
+    font-size: 2.5em;
+    font-weight: bolder;
+}
+
+.tagline {
+    margin-bottom: 1em;
+}
+
+.main .btn-outline-primary {
+    color: #FFFFFF;
+    background-color: #5c47ff;
+    border-color: #5c47ff;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: 0 20px 50px rgba(59, 43, 91, 0.7);
+    margin: 3px;
+}
+
+.main .btn-outline-primary:hover, .main .btn-outline-primary:active:focus {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    color: #5c47ff;
+}
+
+.summer-container, .info-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.info-box {
+    position: relative;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 20px 50px rgba(59, 43, 91, 0.7);
+}
+
+.info-box p {
+    color: black;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: left;
+}
+
+@media screen and (max-width: 1000px) {
+    .main {
+        font-size: 1.2em;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .main {
+        font-size: 1em;
+    }
+}
+
+hr {
+    display: block;
+    height: 8px;
+    background-color: #5c47ff;
+    border-color: #5c47ff;
+    border-radius: 20px;
+    box-shadow: 0 20px 50px rgba(59, 43, 91, 1.0);
+    margin: 20px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px
+}
