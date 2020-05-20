@@ -1,7 +1,10 @@
 .fc-content {
   background-color: #5c47ff;
   color: #ffffff;
-  box-shadow: 0 0 .2rem rgba(0,0,0,.1),0 .2rem .4rem rgba(0,0,0,.2);
+}
+
+.fc-event {
+  background-color: #5c47ff;
 }
 
 #calendar-error {
