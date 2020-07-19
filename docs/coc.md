@@ -41,6 +41,6 @@ If you are being harassed, notice that someone else is being harassed, or have a
 ## Contact Us
 
 
-Talk directly to the **Hackathons for Schools** representative at the event, or email us at [incidents@hackathonsforschools.com](mailto:incidents@hackathonsforschools.com). They will do their best to help!
+Talk directly to the **Hackathons for Schools** representative at the event, email us at [incidents@hackathonsforschools.com](mailto:incidents@hackathonsforschools.com), or call +447451289765. They will do their best to help!
 
 For special enquiries, contact Will directly at [will@hackathonsforschools.com](mailto:will@hackathonsforschools.com).
