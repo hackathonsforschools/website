@@ -65,8 +65,17 @@
 	</a>
 </li>
 {% endif %}
+{% if site.data.social.youtube %}
 
-
+{% endif %}
+<li>
+    <a href="{{ site.data.social.youtube }}" title="{{ site.data.language.str_follow_on }} YouTube">
+        <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i>
+        </span>
+    </a>
+</li>
 {% if site.data.social.gitlab or site.theme_settings.gitlab %}
 <li>
 	<a href="https://gitlab.com/{{ site.data.social.gitlab }}" title="{{ site.data.language.str_follow_on }} Gitlab">
